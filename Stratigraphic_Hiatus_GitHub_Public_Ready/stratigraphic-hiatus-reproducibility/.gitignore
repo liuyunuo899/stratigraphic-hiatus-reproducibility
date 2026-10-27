@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.idea/
+.spyproject/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+*.log
+# This large CSV is locally restored losslessly from its tracked gzip.
+data/processed/sadler_pairs.csv
+# Never commit local working copies, caches, or private draft manuscripts.
+*.tmp
+~$*

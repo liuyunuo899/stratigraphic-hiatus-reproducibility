@@ -1,0 +1,8 @@
+# Reference versions from the earlier reproducibility environment.
+# Scientific algorithms and parameters are specified in src/*.py.
+# This requirements file was absent from the supplied 1(3).zip.
+numpy==2.2.5
+pandas==2.3.2
+scipy==1.16.2
+matplotlib==3.10.3
+requests==2.32.3

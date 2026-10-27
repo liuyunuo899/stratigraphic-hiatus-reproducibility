@@ -1,0 +1,949 @@
+col_id,col_name,col_group,setting,lat,lng,duration,n_units,total_thick,n_hiatus,t_min,t_max
+2,"Madison Co, Alabama",Southern Appalachians,Appalachian orogen,34.853,-86.562,1227.7,22,2559.0,5,322.3,1550.0
+3,"Jackson County, Alabama",Southern Appalachians,Appalachian orogen,34.832,-85.782,1227.7,19,2898.0,4,322.3,1550.0
+4,"Blount County, Alabama",Southern Appalachians,Appalachian orogen,33.998,-86.55,1227.7,18,2905.0,4,322.3,1550.0
+5,"Dekalb & Western Etowah Counties, Alabama",Southern Appalachians,Appalachian orogen,34.354,-86.079,1227.7,15,2622.0,6,322.3,1550.0
+6,"Western Valley & Ridge, Northern Segment, Alabama",Southern Appalachians,Appalachian orogen,34.209,-85.599,1227.7,15,2701.0,8,322.3,1550.0
+7,"Eastern Valley and Ridge, Northern Segment, Alabama",Southern Appalachians,Appalachian orogen,33.717,-86.156,1221.7,20,4430.0,4,322.3,1544.0
+8,"Western Valley & Ridge, Southern Segment, Alabama",Southern Appalachians,Appalachian orogen,33.662,-86.786,1223.7,20,6103.0,7,322.3,1546.0
+9,"Eastern Valley & Ridge, Southern Segment, Alabama",Southern Appalachians,Appalachian orogen,33.165,-87.304,1221.7,17,6790.0,3,322.3,1544.0
+10,"Northwestern Valley & Ridge & Plateau, Georgia",Southern Appalachians,Appalachian orogen,34.725,-85.3,1225.7,13,3168.0,5,322.3,1548.0
+11,"Southeastern Valley & Ridge, Georgia",Southern Appalachians,Appalachian orogen,34.503,-85.0,1219.7,24,8147.0,8,322.3,1542.0
+12,"Cumberland Plateau & Adjacent Areas, Tennessee",Southern Appalachians,Appalachian orogen,36.011,-84.924,1246.25,55,5479.0,5,313.75,1560.0
+13,"Pine Mountain Overthrust & Adjacent Areas, Tennessee",Southern Appalachians,Appalachian orogen,36.45,-83.575,1236.25,55,7424.0,4,313.75,1550.0
+14,"Northern Unaka Mountains & Adjacent Valley & Ridge, Tennessee",Southern Appalachians,Appalachian orogen,36.308,-82.483,750.165,43,24462.0,2,449.835,1200.0
+15,"Southern Unaka Mountains and Adjacent Valley & Ridge, Tennessee",Southern Appalachians,Appalachian orogen,35.916,-83.716,679.3333,51,30810.0,3,340.6667,1020.0
+16,"Valley & Ridge, Tennessee",Southern Appalachians,Appalachian orogen,36.333,-83.066,1217.7,59,13472.0,7,326.3,1544.0
+17,"South-central, Ohio",Southern Appalachians,Appalachian orogen,39.397,-82.828,1238.0,38,1686.0,5,312.0,1550.0
+18,Northeastern Kentucky,Southern Appalachians,Appalachian orogen,38.5,-83.05,801.1,51,3803.5,12,298.9,1100.0
+19,Eastern Kentucky,Southern Appalachians,Appalachian orogen,37.579,-83.001,749.9,63,7273.5,18,300.1,1050.0
+20,Southeastern Kentucky: North of Pine Mtn,Southern Appalachians,Appalachian orogen,36.98,-83.22,738.0,50,6697.0,12,312.0,1050.0
+21,"Lee County, Virginia",Southern Appalachians,Appalachian orogen,36.735,-82.925,1230.75,51,5669.0,8,317.25,1548.0
+22,Northern Part Chautauqua Platform,Texas-Oklahoma Tectonic Region,Cratonic platform,36.583,-96.434,1330.0,29,3430.0,4,0.0,1330.0
+23,"Appalachian Plateau, Virginia",Southern Appalachians,Appalachian orogen,37.3,-82.116,823.3333,40,6724.0,7,316.6667,1140.0
+24,Southern Part Chautauqua Platform,Texas-Oklahoma Tectonic Region,Cratonic platform,35.583,-96.248,1330.0,45,5719.0,5,0.0,1330.0
+25,"Scott and Russell Counties, Virginia",Southern Appalachians,Appalachian orogen,36.778,-82.356,705.0,72,9596.0,7,319.0,1024.0
+26,Lehigh Basin Portion of Arkoma Basin,Texas-Oklahoma Tectonic Region,Cratonic platform,34.723,-96.458,1282.0,38,9542.0,3,0.0,1282.0
+27,"Washington & Smyth Counties, Virginia: West of Pulaski Fault",Southern Appalachians,Appalachian orogen,36.817,-81.944,713.7,40,5917.0,6,326.3,1040.0
+28,"Western Anticline Belt (southern half), Virginia",Southern Appalachians,Appalachian orogen,37.133,-81.466,718.0667000000001,65,5964.0,5,321.9333,1040.0
+31,Eastern Wisconsin,Midwestern Basins and Arches,Cratonic platform,43.733,-87.845,2500.0,37,2218.0,9,0.0,2500.0
+32,"Southern Coal Basin, West Virginia",Northern Appalachians,Appalachian orogen,38.0,-81.611,845.325,65,7604.0,10,294.675,1140.0
+33,"Sioux/Lyons Counties, Iowa",Midcontinent,Cratonic platform,43.267,-96.152,3686.2,18,1177.0,13,0.0,3686.2
+34,Cost G1 Well Georges Bank Basin,Atlantic Coastal Plain,Passive margin & coastal plain,40.916,-68.3,998.2761,10,5610.0,5,1.7239,1000.0
+35,Plomosa and Dome Rock Mountains Area,Southwest Mid-Continent,Cratonic platform,33.591,-114.061,1800.0,28,21648.0,12,0.0,1800.0
+36,Barrow - Drew Point,Northern Alaska,Cordilleran & Alaska orogen,70.644,-154.583,464.0,19,3250.0,7,0.0,464.0
+37,"Wythe and Pulaski Counties, Virginia: West of Pulaski Fault",Southern Appalachians,Appalachian orogen,37.018,-81.231,698.625,27,4030.0,5,341.375,1040.0
+38,"Montgomery and Roanoke Counties, Virginia: West of Pulaski Fault",Southern Appalachians,Appalachian orogen,37.238,-80.555,698.625,23,4552.0,6,341.375,1040.0
+39,"Basin Center, West Virginia",Northern Appalachians,Appalachian orogen,38.445,-80.986,853.775,64,10042.0,11,286.225,1140.0
+40,"Southeast Valley & Ridge, West Virginia",Northern Appalachians,Appalachian orogen,37.741,-80.608,826.25,64,10960.0,7,313.75,1140.0
+41,"Highland to Craig County, Virginia",Northern Appalachians,Appalachian orogen,38.092,-79.772,798.625,60,6052.0,4,341.375,1140.0
+42,"Rockbridge & Botetourt Counties, Virginia - West of Pulaski Fault",Northern Appalachians,Appalachian orogen,37.527,-80.035,690.5,39,7715.0,5,349.5,1040.0
+43,"Rockingham & Augusta Counties, Virginia - West of North Mtn Fault",Northern Appalachians,Appalachian orogen,38.438,-79.158,790.5,36,4941.0,8,349.5,1140.0
+44,Southeastern Ohio,Northern Appalachians,Appalachian orogen,39.894,-81.76,1045.6,41,4134.0,10,274.4,1320.0
+45,"Dunkard Basin, West Virginia",Northern Appalachians,Appalachian orogen,39.343,-80.961,863.7,64,13197.0,11,276.3,1140.0
+46,"High Plateau, West Virginia",Northern Appalachians,Appalachian orogen,39.141,-80.075,859.9,58,9692.0,11,280.1,1140.0
+47,"Northeast Valley & Ridge, West Virginia",Northern Appalachians,Appalachian orogen,39.04,-79.154,246.01760000000002,60,11946.0,5,351.5,597.5176
+48,Southern Papago Reservation,Southwest Mid-Continent,Cratonic platform,32.252,-111.665,1802.5,25,5229.0,11,0.0,1802.5
+49,Sonoita Area,Southwest Mid-Continent,Cratonic platform,31.62,-110.15,1666.666,46,29545.0,17,0.0,1666.666
+50,Big Hatchet Mountain Area,Southwest Mid-Continent,Cratonic platform,31.666,-108.4,2050.0,24,7904.0,13,0.0,2050.0
+51,Verde Valley,Southwest Mid-Continent,Cratonic platform,33.878,-110.44,1908.3325,24,8980.0,14,0.0,1908.3325
+52,Lone Mountain Area,Southwest Mid-Continent,Cratonic platform,32.483,-108.258,1800.0,21,1842.0,12,0.0,1800.0
+53,Black Range,Southwest Mid-Continent,Cratonic platform,33.075,-107.5,1600.0,13,2544.0,8,0.0,1600.0
+54,Franklin Mountain Cristo Rey Area,Southwest Mid-Continent,Cratonic platform,31.909,-106.502,1270.0,40,5417.0,10,0.0,1270.0
+55,Organ Mountain Southern San Andres Mountain,Southwest Mid-Continent,Cratonic platform,32.613,-106.421,2050.0,34,7775.0,9,0.0,2050.0
+56,"Northeast Valley & Ridge, Virginia - West of North Mtn Fault",Northern Appalachians,Appalachian orogen,39.083,-78.504,100.75,23,4920.0,2,349.5,450.25
+57,Sierra Diablo,Southwest Mid-Continent,Cratonic platform,31.377,-105.046,1200.0,29,13142.0,9,0.0,1200.0
+58,Marathon - Big Bend Region,Southwest Mid-Continent,Cratonic platform,29.585,-103.366,1199.9883,39,12245.0,7,0.0117,1200.0
+59,Glass Mountain Marathon Region,Southwest Mid-Continent,Cratonic platform,30.452,-103.002,1200.0,29,9225.0,8,0.0,1200.0
+60,Quemado Fence Lake Area,Southwest Mid-Continent,Cratonic platform,34.216,-108.395,1400.0,16,1657.0,5,0.0,1400.0
+61,Puetecito-landron Mountain Area,Southwest Mid-Continent,Cratonic platform,34.153,-107.275,1400.0,24,3371.0,6,0.0,1400.0
+62,Carthage-Joyita Hill Area,Southwest Mid-Continent,Cratonic platform,33.808,-106.802,1400.0,24,2953.0,4,0.0,1400.0
+63,Northern San Andres Mountains,Southwest Mid-Continent,Cratonic platform,33.235,-106.642,1400.0,28,2173.0,9,0.0,1400.0
+64,Sacramento Mountains,Southwest Mid-Continent,Cratonic platform,33.051,-105.607,1600.0,28,3571.0,10,0.0,1600.0
+65,Carlsbad and Northern Shelf,Southwest Mid-Continent,Cratonic platform,32.355,-104.178,1300.0,37,5370.0,12,0.0,1300.0
+66,Delaware Basin,Southwest Mid-Continent,Cratonic platform,31.472,-103.153,1300.0,48,10026.0,16,0.0,1300.0
+67,Central Basin Platform,Southwest Mid-Continent,Cratonic platform,32.352,-102.27,1300.0,39,4407.0,12,0.0,1300.0
+68,Midland Basin,Southwest Mid-Continent,Cratonic platform,31.706,-101.775,1300.0,44,5580.0,13,0.0,1300.0
+69,Eastern Shelf,Southwest Mid-Continent,Cratonic platform,31.908,-100.616,1300.0,35,2687.0,7,0.0,1300.0
+70,Northwest Shelf,Southwest Mid-Continent,Cratonic platform,33.779,-104.016,1300.0,34,3825.0,10,0.0,1300.0
+71,Western Palo Duro Basin,Southwest Mid-Continent,Cratonic platform,34.433,-101.833,1600.0,45,3342.0,10,0.0,1600.0
+72,Eastern Palo Duro Basin,Southwest Mid-Continent,Cratonic platform,33.733,-99.983,1300.0,43,3439.0,8,0.0,1300.0
+73,Amarillo Arch,Southwest Mid-Continent,Cratonic platform,35.5,-101.578,1196.655,21,1689.0,7,3.345,1200.0
+74,Western Oklahoma,Southwest Mid-Continent,Cratonic platform,35.936,-99.251,1556.655,43,9247.0,6,3.345,1560.0
+75,Texas Panhandle,Southwest Mid-Continent,Cratonic platform,36.38,-100.886,1596.655,42,7437.0,7,3.345,1600.0
+76,Hugoton Embayment-kansas,Southwest Mid-Continent,Cratonic platform,37.583,-101.283,1799.3462,47,3770.0,10,0.6538,1800.0
+77,Las Animas Arch-colorado,Southwest Mid-Continent,Cratonic platform,38.283,-102.566,1800.0,53,4566.0,8,0.0,1800.0
+78,Las Animas Arch-kansas,Southwest Mid-Continent,Cratonic platform,39.476,-101.175,1196.655,41,2215.0,6,3.345,1200.0
+79,"Plymouth/Cheeroke Counties, Iowa",Midcontinent,Cratonic platform,42.738,-95.85,2065.0,23,731.0,8,0.0,2065.0
+80,"Webster County, Iowa",Midcontinent,Cratonic platform,42.511,-94.241,2112.5,34,28047.0,11,0.0,2112.5
+81,"Butler County, Iowa",Midcontinent,Cratonic platform,42.751,-92.798,2133.3325,30,28280.0,12,0.0,2133.3325
+82,"Linn/Benton Counties, Iowa",Midcontinent,Cratonic platform,42.07,-91.828,2008.75,38,1335.0,8,0.0,2008.75
+83,"Des Moines County, Iowa",Midcontinent,Cratonic platform,40.966,-91.17,1500.0,39,1242.0,10,0.0,1500.0
+84,"Sheridan County, Nebraska",Midcontinent,Cratonic platform,42.551,-102.354,1712.5,32,1635.0,8,0.0,1712.5
+85,"Rock County, Nebraska",Midcontinent,Cratonic platform,42.402,-99.451,1712.5,23,1452.0,9,0.0,1712.5
+86,"Stanton County, Nebraska",Midcontinent,Cratonic platform,41.95,-97.333,2050.0,38,1216.0,11,0.0,2050.0
+87,"Sarpy County, Nebraska",Midcontinent,Cratonic platform,41.123,-96.095,1153.334,46,691.0,8,0.0,1153.334
+88,"Harrison/Pottawattomie Counties, Iowa",Midcontinent,Cratonic platform,41.582,-95.626,2075.0,62,28201.0,10,0.0,2075.0
+89,"Dallas/Madison Counties, Iowa",Midcontinent,Cratonic platform,41.543,-94.031,1140.0,57,28354.0,7,0.0,1140.0
+90,"Appanoose County, Iowa",Midcontinent,Cratonic platform,40.721,-92.913,2075.0,43,1443.0,10,0.0,2075.0
+91,"Marion County, Missouri",Midcontinent,Cratonic platform,39.828,-91.625,1500.0,56,1406.1,9,0.0,1500.0
+92,"Redwillow County, Nebraska",Midcontinent,Cratonic platform,40.231,-100.423,1760.0,50,1398.0,6,0.0,1760.0
+93,"Ellis/trego Counties, Kansas",Midcontinent,Cratonic platform,38.928,-99.595,1800.0,89,1316.0,7,0.0,1800.0
+94,Colville Delta,Northern Alaska,Cordilleran & Alaska orogen,70.26,-151.269,464.0,21,6078.0,5,0.0,464.0
+95,West Sak,Northern Alaska,Cordilleran & Alaska orogen,70.343,-149.276,464.0,23,4413.0,5,0.0,464.0
+96,Prudhoe,Northern Alaska,Cordilleran & Alaska orogen,69.889,-147.653,464.0,19,4916.0,7,0.0,464.0
+97,Canning River Delta,Northern Alaska,Cordilleran & Alaska orogen,70.015,-145.668,464.0,11,5064.0,3,0.0,464.0
+98,Northern Arctic National Wildlife Refuge,Northern Alaska,Cordilleran & Alaska orogen,69.793,-143.479,745.0,21,4365.0,7,0.0,745.0
+99,"Mitchell County, Kansas",Midcontinent,Cratonic platform,39.448,-98.249,1800.0,98,1433.0,13,0.0,1800.0
+100,"Pottawotomie County, Kansas",Midcontinent,Cratonic platform,39.36,-96.6,1800.0,51,578.0,7,0.0,1800.0
+101,"Jackson County, Kansas",Midcontinent,Cratonic platform,39.446,-95.773,1600.0,68,1034.0,11,0.0,1600.0
+102,"Pawnee County, Nebraska",Midcontinent,Cratonic platform,40.212,-96.393,1600.0,35,268.0,2,0.0,1600.0
+103,"Atchinson County, Missouri",Midcontinent,Cratonic platform,40.433,-95.408,1500.0,89,1340.0,10,0.0,1500.0
+104,"Boone County, Missouri",Midcontinent,Cratonic platform,38.913,-92.298,1425.0,25,765.5,9,0.0,1425.0
+105,"Perry County, Missouri",Midcontinent,Cratonic platform,37.719,-89.866,1497.908,57,2079.0,11,0.0,1497.908
+106,"Stafford County, Kansas",Midcontinent,Cratonic platform,38.2,-98.707,1540.0,79,1305.0,9,0.0,1540.0
+107,"Kingman County, Kansas",Midcontinent,Cratonic platform,37.436,-98.231,1534.0,86,1619.0,8,0.0,1534.0
+108,"Butler County, Kansas",Midcontinent,Cratonic platform,37.766,-96.751,1650.0,74,1150.0,8,0.0,1650.0
+109,"Vernon County, Missouri",Midcontinent,Cratonic platform,37.97,-94.478,1540.0,28,641.0,6,0.0,1540.0
+110,"Barry County, Missouri",Midcontinent,Cratonic platform,36.886,-93.857,1425.0,32,942.0,8,0.0,1425.0
+111,Cost G2 Well Georges Bank Basin,Atlantic Coastal Plain,Passive margin & coastal plain,40.833,-67.5,998.2761,13,7325.0,4,1.7239,1000.0
+112,Northern Coastal Plain,Atlantic Coastal Plain,Passive margin & coastal plain,38.766,-77.308,631.04,18,3526.0,11,0.0,631.04
+113,Northern Neck Peninsula,Atlantic Coastal Plain,Passive margin & coastal plain,37.991,-76.633,635.0,17,835.0,11,0.0,635.0
+114,Raritan Bay,Atlantic Coastal Plain,Passive margin & coastal plain,40.419,-74.217,635.0,32,842.0,10,0.0,635.0
+115,Brick Township,Atlantic Coastal Plain,Passive margin & coastal plain,40.082,-74.095,635.0,24,759.0,7,0.0,635.0
+116,Middle Peninsula,Atlantic Coastal Plain,Passive margin & coastal plain,38.0,-77.183,635.0,15,751.0,9,0.0,635.0
+117,South Bank of James River,Atlantic Coastal Plain,Passive margin & coastal plain,37.125,-77.0,635.0,17,432.0,11,0.0,635.0
+118,York-james Peninsula,Atlantic Coastal Plain,Passive margin & coastal plain,37.466,-76.966,635.0,20,2617.0,11,0.0,635.0
+119,Southwestern Coastal Plain,Atlantic Coastal Plain,Passive margin & coastal plain,36.866,-77.312,323.4,11,295.0,9,0.0,323.4
+120,Southeastern Coastal Plain,Atlantic Coastal Plain,Passive margin & coastal plain,36.716,-76.233,635.0,19,1432.0,13,0.0,635.0
+121,Eastern Shore,Atlantic Coastal Plain,Passive margin & coastal plain,37.81,-75.533,723.28,22,1944.0,13,0.0,723.28
+122,Murfreesboro,Atlantic Coastal Plain,Passive margin & coastal plain,36.325,-77.14,635.0,6,191.0,4,0.0,635.0
+123,Great Dismal Swamp,Atlantic Coastal Plain,Passive margin & coastal plain,36.408,-76.236,635.0,14,824.0,12,0.0,635.0
+124,Albemarle Sound-Alligator River,Atlantic Coastal Plain,Passive margin & coastal plain,35.984,-76.069,635.0,15,1560.0,13,0.0,635.0
+125,Pungo Lake,Atlantic Coastal Plain,Passive margin & coastal plain,35.72,-76.538,635.0,13,860.0,11,0.0,635.0
+126,Farmville,Atlantic Coastal Plain,Passive margin & coastal plain,35.607,-77.559,635.0,6,140.0,5,0.0,635.0
+127,Inner Coastal Plain,Atlantic Coastal Plain,Passive margin & coastal plain,35.283,-77.933,635.0,28,411.0,9,0.0,635.0
+128,Cape Lookout,Atlantic Coastal Plain,Passive margin & coastal plain,34.608,-76.535,635.0,16,1500.0,14,0.0,635.0
+129,Trenton-columbus-new Egypt,Atlantic Coastal Plain,Passive margin & coastal plain,40.139,-74.68,635.0,23,307.0,9,0.0,635.0
+130,Island Beach,Atlantic Coastal Plain,Passive margin & coastal plain,39.887,-74.084,635.0,17,1187.0,6,0.0,635.0
+131,Gloucester County-Salem County,Atlantic Coastal Plain,Passive margin & coastal plain,39.666,-75.224,635.0,21,539.0,6,0.0,635.0
+132,Cape May,Atlantic Coastal Plain,Passive margin & coastal plain,39.212,-74.733,635.0,11,2008.0,5,0.0,635.0
+133,Chesapeake and Delaware Canal,Atlantic Coastal Plain,Passive margin & coastal plain,39.7,-75.65,635.0,9,285.0,4,0.0,635.0
+134,Odessa,Atlantic Coastal Plain,Passive margin & coastal plain,39.445,-75.641,635.0,8,520.0,4,0.0,635.0
+135,Deakyneville,Atlantic Coastal Plain,Passive margin & coastal plain,39.35,-75.533,635.0,11,705.0,5,0.0,635.0
+136,Dover,Atlantic Coastal Plain,Passive margin & coastal plain,39.134,-75.529,635.0,14,1110.0,5,0.0,635.0
+137,Greenwood,Atlantic Coastal Plain,Passive margin & coastal plain,38.805,-75.591,634.5602,14,1332.0,5,0.4398,635.0
+138,Atlantic Coast,Atlantic Coastal Plain,Passive margin & coastal plain,38.53,-75.076,635.0,14,2695.0,7,0.0,635.0
+139,Offshore Mid-Atlantic,Atlantic Coastal Plain,Passive margin & coastal plain,38.493,-73.748,634.9971,12,19685.0,5,0.0029,635.0
+140,Upper Chesapeake Bay,Atlantic Coastal Plain,Passive margin & coastal plain,39.114,-76.506,635.0,12,616.0,7,0.0,635.0
+141,Potomac Estuary,Atlantic Coastal Plain,Passive margin & coastal plain,38.45,-76.729,635.0,20,878.0,8,0.0,635.0
+142,Atlantic Coast,Atlantic Coastal Plain,Passive margin & coastal plain,38.3,-75.316,1000.0,21,2841.0,5,0.0,1000.0
+143,Surf City,Atlantic Coastal Plain,Passive margin & coastal plain,34.43,-77.563,635.0,10,440.0,9,0.0,635.0
+144,Pedee,Atlantic Coastal Plain,Passive margin & coastal plain,34.189,-79.512,635.0,11,551.0,7,0.0,635.0
+145,Congaree,Atlantic Coastal Plain,Passive margin & coastal plain,33.901,-80.795,600.1475,9,456.0,4,34.8525,635.0
+146,Lower Santee-Edisto,Atlantic Coastal Plain,Passive margin & coastal plain,32.905,-79.872,635.0,24,1337.0,11,0.0,635.0
+147,Aiken,Atlantic Coastal Plain,Passive margin & coastal plain,33.492,-81.509,600.465,7,300.0,3,34.535,635.0
+148,Mcalester Basin Portion of Arkoma Basin,Texas-Oklahoma Tectonic Region,Cratonic platform,35.078,-94.951,1330.0,37,10330.0,6,0.0,1330.0
+149,Northwestern Foothills and Arctic Slope Subsurface,Northern Alaska,Cordilleran & Alaska orogen,69.847,-159.802,349.5,13,7845.0,3,0.0,349.5
+150,Northeastern Foothills and Phillip Smith Mountains Quadrangle,Northern Alaska,Cordilleran & Alaska orogen,68.973,-153.516,357.02,19,16222.0,4,0.0,357.02
+151,North Central Foothills and Subsurface,Northern Alaska,Cordilleran & Alaska orogen,68.887,-148.905,423.7,28,10889.0,10,0.0,423.7
+152,Romanzof - British Mountains,Northern Alaska,Cordilleran & Alaska orogen,69.046,-142.446,617.204,25,9327.0,10,0.0,617.204
+153,Nuka Ridge Allochthon,Northern Alaska,Cordilleran & Alaska orogen,68.794,-159.956,381.4825,7,1870.0,4,0.0,381.4825
+154,Ipnavik Allochthon,Northern Alaska,Cordilleran & Alaska orogen,68.374,-156.7,383.72,14,3700.0,8,0.0,383.72
+155,Kelly River Allochthon,Northern Alaska,Cordilleran & Alaska orogen,68.209,-162.729,389.33,13,7615.0,1,0.0,389.33
+156,"Garrett County, Maryland",Northern Appalachians,Appalachian orogen,39.561,-79.25,999.9,34,4156.0,4,300.1,1300.0
+157,Arkansas Basin Portion of Arkoma Basin,Texas-Oklahoma Tectonic Region,Cratonic platform,35.525,-92.895,1360.0,46,10477.0,6,0.0,1360.0
+158,"Central Southern Oklahoma and Southwestern Oklahoma, Southern Oklahoma Fold",Texas-Oklahoma Tectonic Region,Cratonic platform,34.261,-97.495,1400.0,51,19130.0,6,0.0,1400.0
+159,"Cooke and Grayson Counties, Texas, Southern Oklahoma Folded Belt",Texas-Oklahoma Tectonic Region,Cratonic platform,33.45,-96.971,1400.0,20,8851.0,4,0.0,1400.0
+160,Bend Arch,Texas-Oklahoma Tectonic Region,Cratonic platform,32.623,-99.445,1180.0,31,3477.0,6,0.0,1180.0
+161,Fort Worth Basin,Texas-Oklahoma Tectonic Region,Cratonic platform,33.363,-98.07,1176.0,25,6196.0,5,0.0,1176.0
+162,Strawn Basin,Texas-Oklahoma Tectonic Region,Cratonic platform,32.033,-98.366,1548.0,16,2820.0,6,0.0,1548.0
+163,Llano Uplift,Texas-Oklahoma Tectonic Region,Cratonic platform,31.133,-98.741,1220.0,45,14864.0,8,0.0,1220.0
+164,Kerr Basin,Texas-Oklahoma Tectonic Region,Cratonic platform,30.3,-99.416,1284.0,11,5816.0,6,0.0,1284.0
+165,Arkansas and Louisiana Portion of Ouachita Tectonic Belt,Texas-Oklahoma Tectonic Region,Cratonic platform,34.266,-93.383,1550.0,37,26239.0,7,0.0,1550.0
+166,Oklahoma Portion of Ouachita Tectonic Belt,Texas-Oklahoma Tectonic Region,Cratonic platform,34.333,-95.458,1540.0,25,14717.0,4,0.0,1540.0
+167,Waco Uplift Portion of Ouachita Tectonic Belt,Texas-Oklahoma Tectonic Region,Cratonic platform,31.85,-97.116,1034.0,24,22645.0,6,0.0,1034.0
+168,Devils River Uplift Portion of Ouachita Tectonic Belt,Texas-Oklahoma Tectonic Region,Cratonic platform,29.658,-100.378,1350.0,20,9834.0,6,0.0,1350.0
+169,"Black Warrior Basin Prentiss County, Mississippi",Texas-Oklahoma Tectonic Region,Cratonic platform,34.633,-88.541,1130.0,15,3126.0,7,0.0,1130.0
+170,"Black Warrior Basin Oktibbeha County, Mississippi",Texas-Oklahoma Tectonic Region,Cratonic platform,33.445,-88.875,1130.0,19,6709.0,7,0.0,1130.0
+171,"Black Warrior Basin Cullman County, Alabama",Texas-Oklahoma Tectonic Region,Cratonic platform,34.23,-87.02,1130.0,18,2497.0,4,0.0,1130.0
+172,"Jackson County (formerly Washabaugh County), South Dakota",Northern Mid-Continent,Cratonic platform,43.516,-102.758,1573.765,21,1615.0,7,26.235,1600.0
+173,"Brule County, South Dakota",Northern Mid-Continent,Cratonic platform,43.659,-99.176,1934.0,9,1483.0,2,66.0,2000.0
+174,"Brown County, South Dakota",Northern Mid-Continent,Cratonic platform,45.575,-98.178,2644.0,15,475.0,4,66.0,2710.0
+175,"Kittson County, Minnesota",Northern Mid-Continent,Cratonic platform,48.83,-96.841,2710.2,7,240.0,3,89.8,2800.0
+176,"Union County, South Dakota",Northern Mid-Continent,Cratonic platform,42.916,-96.716,1949.5,9,624.0,5,100.5,2050.0
+177,"Minnehaha County, South Dakota",Northern Mid-Continent,Cratonic platform,43.69,-96.646,2028.9,4,1120.0,3,83.6,2112.5
+178,"Minnesota River Valley, Big Stone to Nicollet Counties, Minnesota",Northern Mid-Continent,Cratonic platform,44.767,-95.423,3725.7,22,891.0,8,89.8,3815.5
+179,"Stearns County, Minnesota",Northern Mid-Continent,Cratonic platform,45.616,-94.377,3410.2,10,6032.0,4,89.8,3500.0
+180,"Crow Wing County, Minnesota",Northern Mid-Continent,Cratonic platform,46.633,-94.091,3678.5,11,2987.0,3,93.9,3772.4
+181,"Rainy Lake District, Koochiching County, Minnesota",Northern Mid-Continent,Cratonic platform,48.483,-93.1,2710.2,7,15015.0,2,89.8,2800.0
+182,"West Vermillion District, St. Louis - Lake Counties, Minnesota",Northern Mid-Continent,Cratonic platform,47.883,-91.716,2649.175,13,23340.0,5,90.825,2740.0
+183,"Cook County, Minnesota",Northern Mid-Continent,Cratonic platform,47.845,-90.428,1788.142,12,23210.0,5,1011.858,2800.0
+184,"Pine - Carlton Counties, Minnesota",Northern Mid-Continent,Cratonic platform,46.415,-92.678,2302.15,14,14485.0,5,497.85,2800.0
+185,"Freeborn County, Minnesota",Northern Mid-Continent,Cratonic platform,43.7,-92.85,984.45,29,6663.0,4,95.55,1080.0
+186,"Grant County, Wisconsin",Northern Mid-Continent,Cratonic platform,42.783,-90.49,1655.38,30,805.0,7,419.62,2075.0
+187,"Baraboo District, Sauk County, Wisconsin",Northern Mid-Continent,Cratonic platform,43.233,-89.756,1301.8,15,2026.0,3,458.2,1760.0
+188,"Fond Du Lac County, Wisconsin",Northern Mid-Continent,Cratonic platform,43.361,-88.35,1373.2905,12,715.0,3,426.7,1799.9905
+189,"Wausau-wisconsin Rapids Area, Marathon-Wood Counties, Wisconsin",Northern Mid-Continent,Cratonic platform,44.541,-89.333,2782.15,10,211.0,6,497.85,3280.0
+190,"Flambeau and Rusk Counties, Wisconsin",Northern Mid-Continent,Cratonic platform,45.566,-90.986,2302.15,5,330.0,3,497.85,2800.0
+191,"Davis Hill Area Bayfield County, Wisconsin",Northern Mid-Continent,Cratonic platform,46.408,-90.74,1828.0,13,26532.0,5,972.0,2800.0
+192,"Gogebic Range, Gogebic County, Michigan",Northern Mid-Continent,Cratonic platform,46.366,-89.682,1814.0,19,27181.0,3,986.0,2800.0
+193,"Watersmeet Area, Gogebic County, Michigan",Northern Mid-Continent,Cratonic platform,46.207,-89.039,2428.0,9,5115.0,6,972.0,3400.0
+194,"Amasa Oval, Iron County, Michigan",Northern Mid-Continent,Cratonic platform,46.347,-88.191,1247.5,6,14715.0,3,1712.5,2960.0
+195,"Marquette District, Marquette County, Michigan",Northern Mid-Continent,Cratonic platform,46.578,-87.64,1948.0,16,13840.0,3,972.0,2920.0
+196,"Central Dickinson County, Michigan",Northern Mid-Continent,Cratonic platform,46.034,-87.813,2744.505,23,10488.0,5,455.5,3200.005
+197,"Mountain-amberg Area, Oconto-marinette Counties, Wisconsin",Northern Mid-Continent,Cratonic platform,45.213,-88.224,2004.275,8,4860.0,5,495.725,2500.0
+198,Cuyama Valley,Southern California,Cordilleran & Alaska orogen,35.005,-119.853,144.625,13,6638.0,2,0.0,144.625
+199,Santa Maria,Southern California,Cordilleran & Alaska orogen,34.916,-120.483,154.8,12,9250.0,2,0.0,154.8
+200,Central Santa Ynez Mountains,Southern California,Cordilleran & Alaska orogen,34.523,-119.949,154.8,19,13038.0,3,0.0,154.8
+201,Fillmore,Southern California,Cordilleran & Alaska orogen,34.416,-118.958,50.0525,11,10000.0,1,0.0,50.0525
+202,Oxnard,Southern California,Cordilleran & Alaska orogen,34.199,-119.186,58.43,10,5720.0,4,0.0,58.43
+203,Ridge Basin,Southern California,Cordilleran & Alaska orogen,34.668,-118.656,95.55,10,33970.0,2,0.0,95.55
+204,Soledad Basin,Southern California,Cordilleran & Alaska orogen,34.453,-118.453,1420.0,17,6680.0,5,0.0,1420.0
+205,San Fernando - Santa Susana Mountains,Southern California,Cordilleran & Alaska orogen,34.303,-118.525,248.0005,18,9508.0,3,0.0,248.0005
+206,Central Santa Monica Mountains,Southern California,Cordilleran & Alaska orogen,34.082,-118.714,90.825,12,8972.0,4,0.0,90.825
+207,Palos Verdes Hills,Southern California,Cordilleran & Alaska orogen,33.755,-118.332,156.475,8,2120.0,4,0.0,156.475
+208,Northern Santa Ana Mountains,Southern California,Cordilleran & Alaska orogen,33.817,-117.684,264.4733,21,18035.0,4,0.0,264.4733
+209,Southern Santa Ana Mountains,Southern California,Cordilleran & Alaska orogen,33.556,-117.524,202.475,13,3200.0,5,0.0,202.475
+210,Picnic Creek Allochthon,Northern Alaska,Cordilleran & Alaska orogen,68.272,-159.508,351.5,11,3510.0,1,0.0,351.5
+211,Western Endicott Allochthon,Northern Alaska,Cordilleran & Alaska orogen,68.198,-154.416,372.15,19,15070.0,1,0.0,372.15
+212,Ekokpuk Syncline,Northern Alaska,Cordilleran & Alaska orogen,67.758,-152.784,370.3625,10,1539.0,3,0.0,370.3625
+213,Savioyuk Syncline,Northern Alaska,Cordilleran & Alaska orogen,67.482,-151.723,373.8625,13,10865.0,2,0.0,373.8625
+214,Northern San Diego Embayment,Southern California,Cordilleran & Alaska orogen,33.166,-117.283,202.475,10,1300.0,3,0.0,202.475
+215,Central San Diego Embayment,Southern California,Cordilleran & Alaska orogen,32.866,-117.15,202.475,16,1325.0,4,0.0,202.475
+216,Southern San Diego Embayment,Southern California,Cordilleran & Alaska orogen,32.566,-117.016,202.475,9,1050.0,5,0.0,202.475
+217,Peninsular Range,Southern California,Cordilleran & Alaska orogen,33.128,-116.741,202.475,4,300.0,2,0.0,202.475
+218,Cortez/tanner Banks,Southern California,Cordilleran & Alaska orogen,32.69,-118.92,47.896,10,3635.0,1,10.534,58.43
+219,Corona,Southern California,Cordilleran & Alaska orogen,33.911,-117.531,240.348,17,12053.0,4,0.0,240.348
+220,Elsinor/temecula,Southern California,Cordilleran & Alaska orogen,33.549,-117.087,240.348,11,7736.0,6,0.0,240.348
+221,San Jacinto/Santa Rosa Mountains,Southern California,Cordilleran & Alaska orogen,33.637,-116.5,343.5,6,5433.0,1,0.0,343.5
+222,Mecca Hills/Orocopia Mountains,Southern California,Cordilleran & Alaska orogen,33.57,-115.85,1800.0,13,9116.0,6,0.0,1800.0
+223,Eagle/Pinto Mountains,Southern California,Cordilleran & Alaska orogen,33.937,-115.699,1800.0,9,1165.0,3,0.0,1800.0
+224,Cajon Pass,Southern California,Cordilleran & Alaska orogen,34.337,-117.472,264.28,9,3241.0,3,0.0,264.28
+225,Big Bear,Southern California,Cordilleran & Alaska orogen,34.216,-116.858,1800.0,27,4810.0,10,0.0,1800.0
+226,Victorville,Southern California,Cordilleran & Alaska orogen,34.512,-117.328,586.9,19,11537.0,6,0.0,586.9
+227,Kramer,Southern California,Cordilleran & Alaska orogen,34.98,-117.47,202.475,7,3900.0,4,0.0,202.475
+228,Barstow,Southern California,Cordilleran & Alaska orogen,34.89,-116.92,549.382,17,9737.0,6,0.0,549.382
+229,Hector,Southern California,Cordilleran & Alaska orogen,34.8,-116.389,4031.0,11,481.0,5,0.0,4031.0
+230,Old Dad Mountains,Southern California,Cordilleran & Alaska orogen,34.846,-115.804,2046.655,15,5895.0,6,3.345,2050.0
+231,Mescal Range-Providence Mountains,Southern California,Cordilleran & Alaska orogen,35.433,-115.333,1832.7,19,4333.0,6,154.8,1987.5
+232,Centerville Beach,Northern California,Cordilleran & Alaska orogen,40.557,-124.349,90.825,10,1922.0,2,0.0,90.825
+233,Scotia Bluffs,Northern California,Cordilleran & Alaska orogen,40.446,-124.093,100.5,8,2005.0,1,0.0,100.5
+234,East of Mccloud River,Northern California,Cordilleran & Alaska orogen,41.245,-121.943,358.86,18,10929.0,7,0.0,358.86
+235,West of Mccloud River,Northern California,Cordilleran & Alaska orogen,41.108,-122.554,420.39,12,3645.0,6,0.0,420.39
+236,Yreka,Northern California,Cordilleran & Alaska orogen,41.723,-122.635,477.1,4,7370.0,2,0.0,477.1
+237,Central Metamorphic Belt,Northern California,Cordilleran & Alaska orogen,40.804,-123.519,425.7,7,3200.0,5,0.0,425.7
+238,North Fork,Northern California,Cordilleran & Alaska orogen,40.761,-123.15,298.9,5,30.0,2,0.0,298.9
+239,Hayfork,Northern California,Cordilleran & Alaska orogen,40.57,-123.131,274.4,6,1258.0,4,0.0,274.4
+240,Rattlesnake,Northern California,Cordilleran & Alaska orogen,40.748,-122.85,211.1,4,258.0,3,0.0,211.1
+241,Kalmiopsis,Northern California,Cordilleran & Alaska orogen,41.975,-123.927,202.475,7,1100.0,4,0.0,202.475
+242,Berkeley Hills,Northern California,Cordilleran & Alaska orogen,37.834,-122.204,150.6,12,3545.0,3,0.0,150.6
+243,Western Contra Costa County,Northern California,Cordilleran & Alaska orogen,37.976,-122.317,150.6,19,9187.0,4,0.0,150.6
+244,Merced River,Northern California,Cordilleran & Alaska orogen,37.438,-120.574,112.63250000000002,4,1690.0,1,150.6,263.2325
+245,Tuolumne River,Northern California,Cordilleran & Alaska orogen,37.704,-120.431,155.4,4,1800.0,2,150.6,306.0
+246,Mokelumne River to Placerville Area,Northern California,Cordilleran & Alaska orogen,38.508,-120.99,42.30000000000001,4,3000.0,2,150.6,192.9
+248,Bowman Lake,Northern California,Cordilleran & Alaska orogen,39.405,-120.689,301.384,7,9300.0,5,170.225,471.609
+249,Taylorsville,Northern California,Cordilleran & Alaska orogen,40.078,-120.904,316.80899999999997,24,13776.0,4,154.8,471.609
+250,Taylorsville East,Northern California,Cordilleran & Alaska orogen,40.065,-120.467,41.375,4,4212.0,0,156.475,197.85
+251,Mount Diablo North Fork,Northern California,Cordilleran & Alaska orogen,37.939,-121.931,161.5,22,27037.0,7,0.0,161.5
+252,Mount Diablo South Flank,Northern California,Cordilleran & Alaska orogen,37.789,-121.848,161.5,20,17494.0,6,0.0,161.5
+253,Suisun Bay,Northern California,Cordilleran & Alaska orogen,38.091,-122.079,110.025,16,12927.0,6,0.0,110.025
+254,Montezuma,Northern California,Cordilleran & Alaska orogen,38.11,-121.81,81.7,26,5230.0,2,0.0,81.7
+255,Tracy,Northern California,Cordilleran & Alaska orogen,37.706,-121.39,85.7,19,4290.0,3,0.0,85.7
+256,San Joaquin East,Northern California,Cordilleran & Alaska orogen,37.988,-120.985,143.1,16,1940.0,4,0.0,143.1
+257,Clarksburg,Northern California,Cordilleran & Alaska orogen,38.408,-121.498,143.1,25,5437.0,5,0.0,143.1
+258,Ord Bend,Northern California,Cordilleran & Alaska orogen,39.591,-122.283,143.1,18,3946.0,4,0.0,143.1
+259,Northwest,Northern California,Cordilleran & Alaska orogen,40.26,-122.48,161.5,14,11258.0,3,0.0,161.5
+260,Putah Creek,Northern California,Cordilleran & Alaska orogen,38.532,-121.964,161.5,20,18831.0,5,0.0,161.5
+261,Roseburg Area,Northwest,Cordilleran & Alaska orogen,43.25,-122.859,62.745,8,11780.0,2,0.0,62.745
+262,Cape Blanco Area,Northwest,Cordilleran & Alaska orogen,42.772,-124.391,56.81,7,426.0,3,0.0,56.81
+263,Coos Bay Area,Northwest,Cordilleran & Alaska orogen,43.428,-124.201,62.745,16,12902.0,4,0.0,62.745
+264,Reedsport (subsurface),Northwest,Cordilleran & Alaska orogen,43.818,-124.078,58.43,7,2991.0,1,0.0,58.43
+265,Eugene Area,Northwest,Cordilleran & Alaska orogen,44.081,-123.083,50.0525,8,6320.0,2,0.0,50.0525
+266,Central Coastal Range,Northwest,Cordilleran & Alaska orogen,44.611,-123.896,56.81,17,17600.0,7,0.0,56.81
+267,Mcminnville Sheridan Area,Northwest,Cordilleran & Alaska orogen,45.094,-123.256,58.43,9,6310.0,4,0.0,58.43
+268,"Oregon City, Molalla Area",Northwest,Cordilleran & Alaska orogen,45.243,-122.579,36.7575,12,2900.0,4,0.0,36.7575
+269,Astoria Area,Northwest,Cordilleran & Alaska orogen,46.094,-123.868,42.79,18,7990.0,3,0.0,42.79
+270,Columbia County Area,Northwest,Cordilleran & Alaska orogen,45.933,-123.162,54.0175,15,6995.0,4,0.0,54.0175
+271,Eastern Endicott Mountains Allochthon,Northern Alaska,Cordilleran & Alaska orogen,68.296,-151.695,366.7875,12,13330.0,4,0.0,366.7875
+272,Mount Doonerak,Northern Alaska,Cordilleran & Alaska orogen,67.907,-150.633,511.0,14,3740.0,5,0.0,511.0
+273,Hub Mountain,Northern Alaska,Cordilleran & Alaska orogen,67.389,-159.922,783.95,12,4250.0,4,0.0,783.95
+274,Southern Wiseman Quadrangle,Northern Alaska,Cordilleran & Alaska orogen,67.048,-150.095,783.95,18,5135.0,5,0.0,783.95
+275,South Flank Willapa Hills,Northwest,Cordilleran & Alaska orogen,46.49,-123.501,54.0175,16,13175.0,4,0.0,54.0175
+276,Grays Harbor Basin,Northwest,Cordilleran & Alaska orogen,46.991,-123.693,54.0175,13,12345.0,3,0.0,54.0175
+277,Centralia - Chehalis Area,Northwest,Cordilleran & Alaska orogen,46.658,-122.876,58.43,14,10446.0,3,0.0,58.43
+278,Western Olympic Peninsula,Northwest,Cordilleran & Alaska orogen,47.46,-124.226,50.7133,6,7830.0,2,0.0,50.7133
+279,Northwest Olympic Peninsula,Northwest,Cordilleran & Alaska orogen,48.158,-124.495,56.81,15,12902.0,7,0.0,56.81
+280,Northeast Olympic Peninsula,Northwest,Cordilleran & Alaska orogen,48.025,-123.034,56.81,14,2805.0,2,0.0,56.81
+281,Bremerton Area,Northwest,Cordilleran & Alaska orogen,47.565,-122.724,54.0175,12,2960.0,1,0.0,54.0175
+282,Seattle Area,Northwest,Cordilleran & Alaska orogen,47.695,-121.158,48.07,11,5550.0,3,0.0,48.07
+283,Carbon River Area,Northwest,Cordilleran & Alaska orogen,47.071,-121.953,48.07,13,6485.0,2,0.0,48.07
+284,Bellingham Area,Northwest,Cordilleran & Alaska orogen,48.723,-122.32,56.0,14,14625.0,2,0.0,56.0
+285,"Pasco - Yakima - Ellensburg Area, Washington",Northwest,Cordilleran & Alaska orogen,46.568,-119.951,46.31,14,8931.0,4,0.0,46.31
+286,"Columbia River - the Dalles Area, Oregon-washington",Northwest,Cordilleran & Alaska orogen,45.634,-120.864,50.0525,9,280.0,3,0.0,50.0525
+287,"Bend - Madras - Ochoco Mountains, Oregon",Northwest,Cordilleran & Alaska orogen,44.334,-120.942,298.9,12,8200.0,5,0.0,298.9
+288,Survey Pass Composite,Northern Alaska,Cordilleran & Alaska orogen,67.707,-154.909,464.0,15,5530.0,5,0.0,464.0
+289,"Lakeview - Fort Rock - Klamath Falls, Oregon",Northwest,Cordilleran & Alaska orogen,42.788,-120.91,85.7,15,270.0,3,0.0,85.7
+290,"John Day - Suplee, Central Oregon",Northwest,Cordilleran & Alaska orogen,44.252,-119.248,389.33,34,30030.0,14,0.0,389.33
+291,"Harney Basin to Steens Mountains, South-Central Oregon",Northwest,Cordilleran & Alaska orogen,43.051,-118.883,251.902,18,1660.0,4,0.0,251.902
+292,"Pullman, Wa. to Snake River Gorge, Wa. Or Id.",Northwest,Cordilleran & Alaska orogen,46.556,-117.199,286.225,15,7500.0,5,0.0,286.225
+293,"Baker County and Wallowa Mountains, Oregon",Northwest,Cordilleran & Alaska orogen,44.995,-117.394,294.675,17,4700.0,6,0.0,294.675
+294,"Juntura - Vale - Owyhee Dam, Oregon",Northwest,Cordilleran & Alaska orogen,43.709,-117.498,15.44,15,3045.0,2,0.0,15.44
+295,"Boise Basin, Idaho",Northwest,Cordilleran & Alaska orogen,43.56,-115.92,17.0975,11,2010.0,1,0.0,17.0975
+296,"Allegany County, Maryland",Northern Appalachians,Appalachian orogen,39.676,-78.678,879.9,38,5205.0,9,300.1,1180.0
+297,"Washington County, Maryland",Northern Appalachians,Appalachian orogen,39.696,-77.995,220.5,43,9575.0,3,349.5,570.0
+298,North-central Ohio,Northern Appalachians,Appalachian orogen,40.608,-82.741,950.5,28,1965.1,6,349.5,1300.0
+299,East-central Ohio,Northern Appalachians,Appalachian orogen,40.577,-81.293,999.9,31,3609.0,6,300.1,1300.0
+300,Southwestern Pennsylvania,Northern Appalachians,Appalachian orogen,40.528,-79.563,1073.7,88,10764.0,4,276.3,1350.0
+301,South-central Pennsylvania,Northern Appalachians,Appalachian orogen,40.291,-77.89,895.725,91,22203.0,5,304.275,1200.0
+302,Southeastern Pennsylvania,Northern Appalachians,Appalachian orogen,40.211,-76.97,321.6700000000001,56,18656.0,8,298.9,620.57
+303,Northeastern Ohio,Northern Appalachians,Appalachian orogen,41.306,-81.633,986.25,35,2725.0,9,313.75,1300.0
+304,Northwest Pennsylvania,Northern Appalachians,Appalachian orogen,41.673,-79.291,994.575,90,4265.0,6,305.425,1300.0
+305,North-central Pennsylvania,Northern Appalachians,Appalachian orogen,41.643,-77.32,934.0,68,11764.0,3,306.0,1240.0
+306,Northeast Pennsylvania,Northern Appalachians,Appalachian orogen,41.543,-75.2,997.5,37,10418.0,4,302.5,1300.0
+307,Eastern Pennsylvania,Northern Appalachians,Appalachian orogen,40.961,-75.81,421.1,65,20119.0,5,298.9,720.0
+308,Northwestern New Jersey,Northern Appalachians,Appalachian orogen,40.686,-74.875,1108.738,44,8405.0,7,391.262,1500.0
+309,"Green Pond Mountain Region, New Jersey",Northern Appalachians,Appalachian orogen,40.993,-74.537,1118.5175,18,3676.0,9,381.4825,1500.0
+310,Western New York,Northern Appalachians,Appalachian orogen,42.583,-78.623,1232.75,49,3849.0,13,317.25,1550.0
+311,West-central New York,Northern Appalachians,Appalachian orogen,42.96,-77.033,882.75,45,5603.0,9,317.25,1200.0
+312,East-central New York,Northern Appalachians,Appalachian orogen,43.116,-75.778,829.6375,42,5328.0,12,370.3625,1200.0
+313,Eastern New York,Northern Appalachians,Appalachian orogen,42.561,-74.3,926.1375,44,9563.0,5,373.8625,1300.0
+314,Southeastern New York,Northern Appalachians,Appalachian orogen,41.824,-74.159,927.85,31,9611.0,4,372.15,1300.0
+315,Adirondack Mountains and Champlain Valley,Northeast United States,Appalachian orogen,43.913,-74.3,1056.325,21,4956.0,10,103.675,1160.0
+316,Yukon-Koyukuk Basin,Southern Alaska,Cordilleran & Alaska orogen,64.971,-158.131,345.5,12,10800.0,7,0.0,345.5
+317,Northern Kuskokwim Mountains,Southern Alaska,Cordilleran & Alaska orogen,64.914,-153.326,783.95,15,7955.0,9,0.0,783.95
+318,"Southwest Alaska Range, Farewell Area",Southern Alaska,Cordilleran & Alaska orogen,62.24,-154.033,497.85,18,4665.0,5,0.0,497.85
+319,"North Central Alaska, Range Healy Area",Southern Alaska,Cordilleran & Alaska orogen,64.533,-149.97,550.825,18,8770.0,5,0.0,550.825
+320,"Northeast Alaska Range, North of Denali Fault Mount Hayes Quadrangle",Southern Alaska,Cordilleran & Alaska orogen,64.323,-147.925,417.97,8,4900.0,2,0.0,417.97
+321,"West Central Alaska Range, McKinley Area",Southern Alaska,Cordilleran & Alaska orogen,62.986,-151.935,307.5,18,10750.0,4,0.0,307.5
+322,Kanektok River,Southern Alaska,Cordilleran & Alaska orogen,59.571,-161.016,1029.1,13,18000.0,7,0.0,1029.1
+323,Tikchik Lakes,Southern Alaska,Cordilleran & Alaska orogen,60.23,-159.341,459.186,10,10000.0,8,0.0,459.186
+324,"Boulder Mountains Wood River and Central Pioneer Mountains, Central Idaho",Northern Rockies,Foreland (Rocky Mtn.),44.15,-114.353,2249.9988,40,32012.0,17,0.0012,2250.0
+325,"White Knob Mountains, Lost River and Lemhi Range, Central Idaho",Northern Rockies,Foreland (Rocky Mtn.),44.375,-113.48,1550.0,41,33012.0,10,0.0,1550.0
+326,"Pend Oreille Lake Boundary County, Idaho Pandandle",Northern Rockies,Foreland (Rocky Mtn.),48.608,-116.541,1567.0,15,17173.0,5,0.0,1567.0
+327,"St. Joe - St. Maries River, Idaho Pandandle",Northern Rockies,Foreland (Rocky Mtn.),47.349,-116.35,1567.0,10,10860.0,2,0.0,1567.0
+328,"Libby - Thompson Falls Area, Northwestern Montana",Northern Rockies,Foreland (Rocky Mtn.),47.931,-115.392,2300.0,16,11727.0,3,0.0,2300.0
+329,"Glacier National Park Area, Northwestern Montana",Northern Rockies,Foreland (Rocky Mtn.),48.544,-113.834,3200.0,50,14365.0,11,0.0,3200.0
+330,"Southern Disturbed Belt, Northwestern Montana",Northern Rockies,Foreland (Rocky Mtn.),47.316,-112.728,3280.0,48,16077.0,12,0.0,3280.0
+331,"Missoula (pe, Te, Q Only), Drummond - Helena Area, Central Western Montana",Northern Rockies,Foreland (Rocky Mtn.),46.435,-112.899,3280.0,68,38128.0,20,0.0,3280.0
+332,"Butte - Bozeman and South, Southwestern Montana",Northern Rockies,Foreland (Rocky Mtn.),45.435,-112.118,2800.0,63,32794.0,20,0.0,2800.0
+333,"West Flank Sweetgrass Arch and Disturbed Belt, Northwest Montana",Northern Rockies,Foreland (Rocky Mtn.),48.181,-112.762,2880.0,45,8124.0,9,0.0,2880.0
+334,"East Flank Sweetgrass Arch and Disturbed Belt, Northwest Montana",Northern Rockies,Foreland (Rocky Mtn.),48.432,-110.888,3000.0,37,3416.0,8,0.0,3000.0
+335,Central Montana Uplift,Northern Rockies,Foreland (Rocky Mtn.),46.516,-109.553,3240.0,42,6429.0,9,0.0,3240.0
+336,Blaine-valley Northwest Basin,Northern Rockies,Foreland (Rocky Mtn.),48.375,-108.616,3200.0,45,3463.0,9,0.0,3200.0
+337,Garfield County North Basin,Northern Rockies,Foreland (Rocky Mtn.),47.266,-106.961,3200.0,55,4670.0,7,0.0,3200.0
+338,Roosevelt County West Basin,Northern Rockies,Foreland (Rocky Mtn.),48.583,-104.933,3200.0,60,5116.0,9,0.0,3200.0
+339,Cedar Creek Anticline Southwest Basin,Northern Rockies,Foreland (Rocky Mtn.),46.209,-105.365,3200.0,55,4200.0,10,0.0,3200.0
+340,Billings County Central Basin,Northern Rockies,Foreland (Rocky Mtn.),47.279,-103.421,3200.0,62,6981.0,15,0.0,3200.0
+341,Williams County Nesson Anticline,Northern Rockies,Foreland (Rocky Mtn.),48.383,-102.95,3200.0,55,5187.0,11,0.0,3200.0
+342,Burleigh County East Basin,Northern Rockies,Foreland (Rocky Mtn.),47.246,-100.575,2800.0,63,4275.0,13,0.0,2800.0
+343,Bottineau County Northeast Basin,Northern Rockies,Foreland (Rocky Mtn.),48.849,-100.8,2800.0,41,3331.0,8,0.0,2800.0
+344,Cavalier County Northeast Edge,Northern Rockies,Foreland (Rocky Mtn.),48.566,-98.001,2800.0,30,1551.0,8,0.0,2800.0
+345,Dickey County Southeast Edge,Northern Rockies,Foreland (Rocky Mtn.),46.741,-98.056,2770.0,21,1105.0,5,0.0,2770.0
+346,"Adams and Harding Counties, Southwest Basin",Northern Rockies,Foreland (Rocky Mtn.),46.266,-102.95,3200.0,49,4254.0,15,0.0,3200.0
+347,Pennington County Northern Black Hills,Northern Rockies,Foreland (Rocky Mtn.),44.95,-102.878,3200.0,41,3256.0,13,0.0,3200.0
+348,Dewey County East Basin (south),Northern Rockies,Foreland (Rocky Mtn.),45.4,-100.34,2530.0,33,3535.0,11,0.0,2530.0
+349,"Talladega Slate Belt, Alabama",Piedmont-Blue Ridge,Appalachian orogen,33.233,-86.041,634.8818,22,26117.0,2,0.0,634.8818
+350,Northern Georgia Piedmont,Piedmont-Blue Ridge,Appalachian orogen,33.783,-85.083,631.04,11,16360.0,4,0.0,631.04
+351,Georgia Blue Ridge,Piedmont-Blue Ridge,Appalachian orogen,34.771,-84.391,1200.0,18,13460.0,4,0.0,1200.0
+352,Great Smoky Mountains South of and Above Greenbriar Fault,Piedmont-Blue Ridge,Appalachian orogen,35.449,-83.532,1200.0,17,15170.0,3,0.0,1200.0
+353,"Great Smoky Mountains, North of and Below Greenbriar Fault",Piedmont-Blue Ridge,Appalachian orogen,35.735,-83.118,1200.0,21,21735.0,2,0.0,1200.0
+354,"Grandfather Mountain Window, North Carolina",Piedmont-Blue Ridge,Appalachian orogen,36.166,-81.183,1200.0,10,12250.0,5,0.0,1200.0
+355,"Blue Ridge Thrust Sheet North and West of Grandfather Mountain Window, Nort",Piedmont-Blue Ridge,Appalachian orogen,35.941,-81.433,1350.0,8,15520.0,3,0.0,1350.0
+356,"Blue Ridge Anticlinorium, Virginia-maryland",Piedmont-Blue Ridge,Appalachian orogen,38.911,-77.866,1400.0,10,7390.0,5,0.0,1400.0
+357,Western Maryland Piedmont and Frederick Valley,Piedmont-Blue Ridge,Appalachian orogen,39.476,-77.336,515.726,13,8405.0,3,0.0,515.726
+358,"York - Lancaster Valley and Mine Ridge Area, Pennsylvania",Piedmont-Blue Ridge,Appalachian orogen,40.041,-75.953,1480.0,16,7230.0,5,0.0,1480.0
+359,Delaware Valley - Pennsylvania - New Jersey,Piedmont-Blue Ridge,Appalachian orogen,40.431,-75.111,1480.0,11,9545.0,4,0.0,1480.0
+360,"Pine Mountain Window, Alabama - Georgia",Piedmont-Blue Ridge,Appalachian orogen,32.961,-84.823,1140.0,8,3945.0,4,0.0,1140.0
+361,Southern Alabama Piedmont,Piedmont-Blue Ridge,Appalachian orogen,32.862,-85.428,556.8375,9,10110.0,3,0.0,556.8375
+362,"Middle, Georgia Piedmont",Piedmont-Blue Ridge,Appalachian orogen,33.496,-84.695,865.6732,12,16480.0,4,0.0,865.6732
+363,"Atlanta Area, Georgia",Piedmont-Blue Ridge,Appalachian orogen,33.847,-84.38,567.66,20,30720.0,6,0.0,567.66
+364,Central and Western South Carolina Slate Belt,Piedmont-Blue Ridge,Appalachian orogen,34.192,-82.465,586.9,9,16060.0,3,0.0,586.9
+365,North Carolina Slate Belt,Piedmont-Blue Ridge,Appalachian orogen,35.49,-79.672,650.0,12,35260.0,3,0.0,650.0
+366,"Piedmont and Eastern Blue Ridge, Central and Southern Virginia",Piedmont-Blue Ridge,Appalachian orogen,37.716,-78.811,1400.0,21,18309.0,8,0.0,1400.0
+367,Northern and Central Virginia Piedmont,Piedmont-Blue Ridge,Appalachian orogen,38.577,-77.664,1000.0,27,23230.0,10,0.0,1000.0
+368,Eastern Maryland Piedmont,Piedmont-Blue Ridge,Appalachian orogen,39.483,-76.736,1160.0,21,18575.0,8,0.0,1160.0
+369,Western Vermont,Northeast United States,Appalachian orogen,44.07,-73.23,1009.7674999999999,20,2570.0,6,19.3325,1029.1
+370,Taconic Mountains Autochthonous Strata,Northeast United States,Appalachian orogen,42.826,-73.533,637.01,15,4414.0,4,392.09,1029.1
+371,Lower Hudson Valley,Northeast United States,Appalachian orogen,41.383,-73.791,895.45,19,2983.0,7,194.55,1090.0
+372,Western Massachusetts West Side - Berkshire Anticlinorium,Northeast United States,Appalachian orogen,42.476,-73.22,640.85,20,8646.0,2,446.15,1087.0
+373,Northwestern Vermont,Northeast United States,Appalachian orogen,44.745,-73.1,1300.0,21,7790.0,7,0.0,1300.0
+374,Southwestern Connecticut,Northeast United States,Appalachian orogen,41.366,-73.091,237.71250000000003,16,7850.0,3,246.7,484.4125
+375,Central Connecticut,Northeast United States,Appalachian orogen,41.781,-72.571,380.6,19,8900.0,3,170.225,550.825
+376,West Limb - Connecticut Valley Synclinorium West Central Massachusetts,Northeast United States,Appalachian orogen,42.528,-72.806,700.3539999999999,16,13685.0,6,171.85,872.204
+377,Central Vermont,Northeast United States,Appalachian orogen,44.295,-72.63,1300.0,24,11188.0,10,0.0,1300.0
+378,Northwestern New Hampshire,Northeast United States,Appalachian orogen,44.86,-71.206,488.2625,14,18710.0,7,0.0,488.2625
+379,"Bronson Hill Anticlinorium, Massachusetts",Northeast United States,Appalachian orogen,42.423,-72.158,187.36000000000007,17,9680.0,2,363.465,550.825
+380,Western New Hampshire,Northeast United States,Appalachian orogen,44.078,-71.848,477.1,14,21266.0,4,0.0,477.1
+381,West - Central Maine,Northeast United States,Appalachian orogen,45.083,-70.553,579.0,20,17560.0,5,365.0,944.0
+382,North - Central Maine,Northeast United States,Appalachian orogen,46.275,-69.291,152.22500000000002,18,23420.0,4,343.5,495.725
+383,Northeastern Maine,Northeast United States,Appalachian orogen,46.641,-68.296,157.31749999999994,25,33890.0,3,381.4825,538.8
+384,South - Central New Hampshire,Northeast United States,Appalachian orogen,43.176,-71.875,479.5258,14,28562.0,4,0.0117,479.5375
+385,Southern Maine,Northeast United States,Appalachian orogen,43.425,-70.576,755.6482,22,12272.0,10,110.025,865.6732
+386,South - Central Maine,Northeast United States,Appalachian orogen,44.545,-68.611,488.25079999999997,15,8860.0,9,0.0117,488.2625
+387,Southeastern Connecticut,Northeast United States,Appalachian orogen,41.576,-72.086,397.8818,16,4250.0,4,237.0,634.8818
+388,Merrimack Synclinorium - Milford Anticline East Central Massachusetts,Northeast United States,Appalachian orogen,42.333,-71.586,282.4375,18,28411.0,3,274.4,556.8375
+389,Eastern Maine,Northeast United States,Appalachian orogen,44.903,-67.378,491.07579999999996,22,13500.0,6,0.0117,491.0875
+390,Rhode Island,Northeast United States,Appalachian orogen,41.541,-71.58,1064.884,17,23725.0,6,238.116,1303.0
+391,Boston Area,Northeast United States,Appalachian orogen,42.138,-71.016,892.498,21,18555.0,8,307.5,1199.998
+392,East - Central Maine,Northeast United States,Appalachian orogen,45.261,-69.021,865.6614999999999,24,29750.0,8,0.0117,865.6732
+393,Seward Peninsula,Northern Alaska,Cordilleran & Alaska orogen,65.468,-163.466,568.4787,21,0.0,8,0.0,568.4787
+394,Porcupine River,Northern Alaska,Cordilleran & Alaska orogen,67.085,-143.374,783.95,15,675.0,6,0.0,783.95
+395,West Charley River,Northern Alaska,Cordilleran & Alaska orogen,65.915,-144.125,562.8383,15,12850.0,3,0.0117,562.85
+396,East Charley River,Northern Alaska,Cordilleran & Alaska orogen,66.054,-141.526,1029.0883,27,15165.0,4,0.0117,1029.1
+397,Yukon River Ot White Mountain,Northern Alaska,Cordilleran & Alaska orogen,65.882,-147.668,1029.0883,24,2500.0,3,0.0117,1029.1
+398,White Mountain to Chena River,Northern Alaska,Cordilleran & Alaska orogen,65.001,-146.083,746.3283,18,0.0,6,0.0117,746.34
+399,Chena River to Shaw Creek Fault,Northern Alaska,Cordilleran & Alaska orogen,64.666,-144.371,1192.5151,12,4200.0,6,0.0117,1192.5268
+400,Shaw Creek Fault to Yukon Border,Northern Alaska,Cordilleran & Alaska orogen,63.645,-141.959,1192.5151,19,0.0,7,0.0117,1192.5268
+401,Togiak,Southern Alaska,Cordilleran & Alaska orogen,59.066,-159.708,199.975,11,8500.0,6,0.0,199.975
+402,"Alaska Peninsula, False Pass to Chignik",Southern Alaska,Cordilleran & Alaska orogen,55.547,-161.187,238.116,22,22449.0,5,0.0,238.116
+403,"Alaska Peninsula, Chignik to Wide Bay",Southern Alaska,Cordilleran & Alaska orogen,56.911,-157.786,238.116,21,16740.0,6,0.0,238.116
+404,"Alaska Peninsula, Wide Bay to Cape Douglas",Southern Alaska,Cordilleran & Alaska orogen,58.608,-154.716,443.1,23,15584.0,8,0.0,443.1
+405,Cook Inlet,Southern Alaska,Cordilleran & Alaska orogen,60.0,-152.508,227.3,31,29790.0,4,0.0,227.3
+406,Talkeetna Mountains,Southern Alaska,Cordilleran & Alaska orogen,62.327,-148.932,199.5,13,9250.0,5,0.0,199.5
+407,Copper River,Southern Alaska,Cordilleran & Alaska orogen,62.353,-145.468,199.5,8,6572.0,3,0.0,199.5
+408,"Central Alaska Range South of Denali Fault, Wrangallia Terrane",Southern Alaska,Cordilleran & Alaska orogen,63.175,-147.925,201.4,6,6103.0,4,0.0,201.4
+409,"Central Alaska Range South of Denali Fault, Maclaren Terrane",Southern Alaska,Cordilleran & Alaska orogen,63.34,-145.831,313.75,7,7675.0,4,0.0,313.75
+410,"Northern Wrangell Mountains, Nebesna Quadrangle",Southern Alaska,Cordilleran & Alaska orogen,62.392,-142.418,322.3,24,12010.0,8,0.0,322.3
+411,"Southern Wrangell Mountains, Mccarthy Quadrangle",Southern Alaska,Cordilleran & Alaska orogen,61.217,-141.986,420.39,31,24190.0,8,0.0,420.39
+412,"Chugach Mountains, North of Border Ranges Fault",Southern Alaska,Cordilleran & Alaska orogen,61.743,-146.914,272.2475,13,7500.0,9,50.0525,322.3
+413,Chugach Mountains South of Border Ranges Fault,Southern Alaska,Cordilleran & Alaska orogen,60.958,-148.723,108.10000000000001,5,18000.0,4,28.95,137.05
+414,Kodiak Island,Southern Alaska,Cordilleran & Alaska orogen,57.559,-153.397,238.116,14,16910.0,7,0.0,238.116
+415,Prince William Sound and Middleton Island,Southern Alaska,Cordilleran & Alaska orogen,60.058,-147.196,96.9121,6,0.0,3,1.9379,98.85
+416,Katalla District,Southern Alaska,Cordilleran & Alaska orogen,60.35,-144.178,95.167,9,5960.0,2,5.333,100.5
+417,Kayak Island,Southern Alaska,Cordilleran & Alaska orogen,59.9,-144.449,57.8452,4,4260.0,1,4.8998,62.745
+418,Yakataga District,Southern Alaska,Cordilleran & Alaska orogen,60.221,-142.292,98.5621,5,4300.0,2,1.9379,100.5
+419,Malaspina District,Southern Alaska,Cordilleran & Alaska orogen,59.833,-140.533,98.5621,5,4300.0,3,1.9379,100.5
+420,Yakutat District,Southern Alaska,Cordilleran & Alaska orogen,59.443,-139.021,98.5621,5,0.0,2,1.9379,100.5
+421,Lituya District,Southern Alaska,Cordilleran & Alaska orogen,58.653,-137.141,97.155,4,750.0,1,3.345,100.5
+422,"Glacier Bay - Chilkat Ridge, Southeast Alaska",Southern Alaska,Cordilleran & Alaska orogen,59.325,-135.641,178.7425,6,8000.0,2,263.2325,441.975
+423,"Northeastern Chilkat Range, Southeast Alaska",Southern Alaska,Cordilleran & Alaska orogen,58.622,-135.303,119.67500000000001,6,7000.0,0,322.3,441.975
+424,"Kuiu - Kupreanof Island, Southeast Alaska",Southern Alaska,Cordilleran & Alaska orogen,56.738,-133.806,329.4,12,7925.0,2,98.85,428.25
+425,"West-central Prince of Wales Island Craig Area, Southeast Alaska",Southern Alaska,Cordilleran & Alaska orogen,55.683,-133.265,195.0,10,10250.0,2,276.3,471.3
+426,Southern Prince of Wales Island Hydaburg Area Southeast Alaska,Southern Alaska,Cordilleran & Alaska orogen,55.094,-132.335,635.0,8,7680.0,2,0.0,635.0
+427,Northern Peninsula - NW Michigan,Midwestern Basins and Arches,Cratonic platform,46.373,-85.766,2500.0,30,1794.0,6,0.0,2500.0
+428,Southern Peninsula - N. Michigan,Midwestern Basins and Arches,Cratonic platform,45.238,-84.53,1200.0,58,4414.0,5,0.0,1200.0
+429,Southern Peninsula - Central Michigan,Midwestern Basins and Arches,Cratonic platform,43.825,-84.963,2800.0,63,8135.0,9,0.0,2800.0
+430,Southern Peninsula - Sw Michigan,Midwestern Basins and Arches,Cratonic platform,42.421,-85.683,1600.0,55,3939.0,9,0.0,1600.0
+431,Southern Peninsula - S.E. Michigan,Midwestern Basins and Arches,Cratonic platform,42.416,-83.803,1200.0,57,4012.0,7,0.0,1200.0
+432,Northern Arches to Illinois Basin - Northern and Western Illinois,Midwestern Basins and Arches,Cratonic platform,41.24,-89.333,1500.0,111,4169.6,22,0.0,1500.0
+433,Illinois Basin - Southwestern Illinois,Midwestern Basins and Arches,Cratonic platform,39.283,-90.323,1500.0,132,4564.0,24,0.0,1500.0
+434,Illinois Basin - Southeastern Illinois,Midwestern Basins and Arches,Cratonic platform,38.646,-88.923,1544.0,149,8559.0,33,0.0,1544.0
+435,Illinois Basin - Eastern Illinois,Midwestern Basins and Arches,Cratonic platform,39.341,-87.741,1440.0,108,6232.0,20,0.0,1440.0
+436,Illinois Basin - Southwestern Indiana,Midwestern Basins and Arches,Cratonic platform,38.633,-87.073,1440.0,103,5226.0,15,0.0,1440.0
+437,Illinois Basin - West-central to South-central Indiana,Midwestern Basins and Arches,Cratonic platform,39.425,-86.241,1576.0,93,3635.2,14,0.0,1576.0
+438,Cincinnati and Kankakee Arches - Southeastern Indiana,Midwestern Basins and Arches,Cratonic platform,39.091,-85.333,1520.0,55,2423.2,14,0.0,1520.0
+439,Cincinnati and Kankakee Arches - Northwestern to East-central Indiana,Midwestern Basins and Arches,Cratonic platform,40.816,-86.125,1200.0,49,2605.0,11,0.0,1200.0
+440,Michigan Basin-findlay Arch - Northern Indiana,Midwestern Basins and Arches,Cratonic platform,41.525,-85.838,1200.0,45,3043.0,11,0.0,1200.0
+441,Michigan Basin-finlay Arch - Northwestern Ohio,Midwestern Basins and Arches,Cratonic platform,41.041,-83.613,1570.0,53,3403.0,9,0.0,1570.0
+442,Cincinnati Arch - Central-western Ohio,Midwestern Basins and Arches,Cratonic platform,40.45,-84.278,1510.0,34,3033.0,10,0.0,1510.0
+443,Cincinnati Arch - Southwestern Ohio,Midwestern Basins and Arches,Cratonic platform,39.433,-84.116,1550.0,65,3576.0,9,0.0,1550.0
+444,Illinois Basin-western Kentucky - North of Rough Creek Fault,Midwestern Basins and Arches,Cratonic platform,37.795,-86.836,1200.0,99,3341.0,18,0.0,1200.0
+445,Illinois Basin-western Kentucky - South of Rough Creek Fault,Midwestern Basins and Arches,Cratonic platform,37.467,-87.558,1600.0,103,7778.0,19,0.0,1600.0
+446,Illinois Basin-western Kentucky - South of Pennyrile Fault,Midwestern Basins and Arches,Cratonic platform,36.806,-87.5,1546.0,85,2728.0,16,0.0,1546.0
+447,Cumberland Saddle - South Central Kentucky,Midwestern Basins and Arches,Cratonic platform,37.116,-85.62,1600.0,61,4366.0,12,0.0,1600.0
+448,Jessamine Dome-cincinnati Arch West Flank - West Central Kentucky,Midwestern Basins and Arches,Cratonic platform,37.841,-85.966,1550.0,57,3093.0,12,0.0,1550.0
+449,Jessamine Dome-cincinnati Arch Central - Central Kentucky,Midwestern Basins and Arches,Cratonic platform,38.487,-84.473,1600.0,28,3056.0,5,0.0,1600.0
+450,Jessamine Dome-cincinnati Arch East Flank - East Central Kentucky,Midwestern Basins and Arches,Cratonic platform,37.641,-84.406,1600.0,61,4193.0,11,0.0,1600.0
+451,Nashville Dome Area - West Central Kentucky,Midwestern Basins and Arches,Cratonic platform,35.916,-88.016,1556.0,45,3294.0,17,0.0,1556.0
+452,Nashville Dome Area - Central Tennessee,Midwestern Basins and Arches,Cratonic platform,36.03,-86.753,1600.0,38,2755.0,17,0.0,1600.0
+453,Nashville Dome Area - East Central Tennessee,Midwestern Basins and Arches,Cratonic platform,35.53,-86.003,1600.0,39,3164.0,13,0.0,1600.0
+454,Nashville Dome Area - Northwestern Alabama,Midwestern Basins and Arches,Cratonic platform,34.963,-87.379,1600.0,20,2190.0,13,0.0,1600.0
+455,"Northwestern Nevada, Humboldt and Washoe Counties",Great Basin,Cordilleran & Alaska orogen,41.458,-119.041,345.5,26,9047.0,12,0.0,345.5
+456,"Winnemucca-battle Mountain Area, Nevada",Great Basin,Cordilleran & Alaska orogen,40.711,-118.241,535.325,63,40490.0,16,0.0,535.325
+457,"Reno Area, Nevada",Great Basin,Cordilleran & Alaska orogen,39.21,-119.558,208.4,36,18387.0,5,0.0,208.4
+458,"Central and Northern Esmeralda County and Southeastern Mineral County, Neva",Great Basin,Cordilleran & Alaska orogen,38.231,-117.713,586.9,47,15695.0,12,0.0,586.9
+459,"Inyo and White Mountains, California",Great Basin,Cordilleran & Alaska orogen,37.3,-118.223,582.09,47,17340.0,16,0.0,582.09
+460,Milligan-wood River-copper Basin Allochthons Central Idaho,Great Basin,Cordilleran & Alaska orogen,43.233,-114.666,635.0,22,18606.0,11,0.0,635.0
+461,"Mountain City, Nevada to Twin Falls, Idaho",Great Basin,Cordilleran & Alaska orogen,42.186,-115.945,769.4,42,27030.0,11,0.0,769.4
+462,"Elko Area, Nevada",Great Basin,Cordilleran & Alaska orogen,40.99,-115.9,567.66,55,22810.0,17,0.0,567.66
+463,"Eureka Area, Nevada",Great Basin,Cordilleran & Alaska orogen,39.155,-117.0,538.8,60,14450.0,15,0.0,538.8
+464,"Death Valley, California",Great Basin,Cordilleran & Alaska orogen,36.453,-116.92,2173.1268,45,23495.0,11,0.0,2173.1268
+465,"Ely Area, Nevada",Great Basin,Cordilleran & Alaska orogen,38.895,-114.645,1720.0,53,22987.0,12,0.0,1720.0
+466,"Pioche Area, Nevada",Great Basin,Cordilleran & Alaska orogen,37.78,-114.558,1192.5268,53,15042.0,9,0.0,1192.5268
+467,"Northwest Las Vegas, Basin Area, Sheep, Las Vegas, and Arrow Canyon",Great Basin,Cordilleran & Alaska orogen,36.42,-115.434,574.875,46,16443.0,11,0.0,574.875
+468,"Las Vegas Shelf Area, Nevada (Frenchman, Muddy, Mormon, and Virgin Mtns)",Great Basin,Cordilleran & Alaska orogen,36.333,-114.65,1775.0,46,11477.0,13,0.0,1775.0
+469,"Albion Range, Idaho - Raft River Range, Utah",Great Basin,Cordilleran & Alaska orogen,41.95,-113.756,2800.0,20,3410.0,12,0.0,2800.0
+470,"Lakeside, Grassy, Newfoundland, Terrace, and Hogup Ranges, Utah",Great Basin,Cordilleran & Alaska orogen,41.136,-113.396,3000.0,44,17230.0,12,0.0,3000.0
+471,"Deep Creek Mountains, Utah",Great Basin,Cordilleran & Alaska orogen,40.025,-113.903,711.5,38,14610.0,11,0.0,711.5
+472,"Needle and Northern Wah Wah Ranges, Utah",Great Basin,Cordilleran & Alaska orogen,38.08,-113.778,1710.0,53,11166.0,12,0.0,1710.0
+473,"Star Range and Mineral Mountains, Utah",Great Basin,Cordilleran & Alaska orogen,38.341,-112.973,2800.0,30,3485.0,18,0.0,2800.0
+474,"Confusion and House Ranges, Utah",Great Basin,Cordilleran & Alaska orogen,38.91,-113.675,1720.0,60,15340.0,11,0.0,1720.0
+475,"Fish Springs, Thomas, Keg, and Drum Mountains, Utah",Great Basin,Cordilleran & Alaska orogen,39.741,-113.716,2800.0,56,11532.0,14,0.0,2800.0
+476,"Pocatello - Preston Area, Southeastern Idaho",Great Basin,Cordilleran & Alaska orogen,42.71,-112.311,709.444,56,29498.0,8,0.0,709.444
+477,"Northern Wasatch Allochthon, Utah",Great Basin,Cordilleran & Alaska orogen,41.705,-111.593,2173.1268,47,14919.0,13,0.0,2173.1268
+478,"East Tintic Mountains, Utah",Great Basin,Cordilleran & Alaska orogen,40.003,-112.025,698.75,42,13000.0,10,0.0,698.75
+479,"Canyon and Pavant Ranges, Utah",Great Basin,Cordilleran & Alaska orogen,39.178,-112.25,670.417,57,18528.0,20,0.0,670.417
+480,"Oquirrh Mountains,  Utah",Great Basin,Cordilleran & Alaska orogen,40.554,-112.298,1800.0,42,17522.0,10,0.0,1800.0
+481,"Central Wasatch Autochthon, Utah",Great Basin,Cordilleran & Alaska orogen,40.98,-111.616,2050.0,59,18405.0,17,0.0,2050.0
+482,"Southern Wasatch Allochthon, Utah",Great Basin,Cordilleran & Alaska orogen,40.246,-111.536,1760.0,46,23470.0,13,0.0,1760.0
+483,"Marysvale Area, Utah",Great Basin,Cordilleran & Alaska orogen,38.392,-112.108,2050.0,31,5255.0,11,0.0,2050.0
+484,Southwestern Utah,Great Basin,Cordilleran & Alaska orogen,37.3,-113.578,1887.5,49,10620.0,14,0.0,1887.5
+485,"Uinta Mountains, Utah",Great Basin,Cordilleran & Alaska orogen,40.859,-109.202,2500.0,43,21250.0,15,0.0,2500.0
+486,Absaroka and Washakie Ranges,Central-Southern Rockies,Foreland (Rocky Mtn.),43.6,-109.836,3099.3462,48,18186.0,11,0.6538,3100.0
+487,Yellowstone Volcanic Area,Central-Southern Rockies,Foreland (Rocky Mtn.),44.513,-110.578,3100.0,71,18357.0,11,0.0,3100.0
+488,Estancia Basin,Central-Southern Rockies,Foreland (Rocky Mtn.),35.463,-106.076,1750.0,38,15133.0,13,0.0,1750.0
+489,San Juan Basin,Central-Southern Rockies,Foreland (Rocky Mtn.),35.896,-108.068,2017.75,47,8040.0,14,32.25,2050.0
+490,Black Mesa Basin,Central-Southern Rockies,Foreland (Rocky Mtn.),35.951,-109.905,1497.42,34,6483.0,7,2.58,1500.0
+491,Plateau Province,Central-Southern Rockies,Foreland (Rocky Mtn.),36.03,-112.18,1887.5,44,16413.0,14,0.0,1887.5
+492,Sierra Grande Uplift,Central-Southern Rockies,Foreland (Rocky Mtn.),36.646,-103.595,2237.4883,32,4251.0,7,0.0117,2237.5
+493,Las Vegas - Raton Basin,Central-Southern Rockies,Foreland (Rocky Mtn.),37.283,-104.148,2175.0,38,13987.0,6,0.0,2175.0
+494,San Juan Mountain Uplift,Central-Southern Rockies,Foreland (Rocky Mtn.),37.506,-106.77,2108.9,43,12949.0,14,3.6,2112.5
+495,Paradox Basin,Central-Southern Rockies,Foreland (Rocky Mtn.),37.891,-109.395,1941.4,47,10671.0,10,83.6,2025.0
+496,South Park Basin,Central-Southern Rockies,Foreland (Rocky Mtn.),38.716,-105.525,2044.667,43,19914.0,15,5.333,2050.0
+497,Eastern Denver Basin,Central-Southern Rockies,Foreland (Rocky Mtn.),39.641,-103.333,2237.5,56,6783.0,12,0.0,2237.5
+498,Western Denver Basin,Central-Southern Rockies,Foreland (Rocky Mtn.),40.255,-104.566,2050.0,48,8870.0,13,0.0,2050.0
+499,Eagle Basin,Central-Southern Rockies,Foreland (Rocky Mtn.),38.888,-106.58,2214.46,27,7357.0,13,23.04,2237.5
+500,Piceance Basin,Central-Southern Rockies,Foreland (Rocky Mtn.),38.967,-107.8,2202.6475,34,10240.0,10,34.8525,2237.5
+501,Eastern Unita Basin,Central-Southern Rockies,Foreland (Rocky Mtn.),40.144,-109.262,2202.6475,32,12214.0,11,34.8525,2237.5
+502,Western Uinta Basin,Central-Southern Rockies,Foreland (Rocky Mtn.),40.245,-110.82,1765.1475,38,12642.0,10,34.8525,1800.0
+503,Hanna and Laramie Basins,Central-Southern Rockies,Foreland (Rocky Mtn.),41.586,-105.528,1825.0,37,16983.0,14,0.0,1825.0
+504,Rocks Springs Uplift,Central-Southern Rockies,Foreland (Rocky Mtn.),41.143,-108.081,3098.2761,46,7295.0,9,1.7239,3100.0
+505,Green River Basin,Central-Southern Rockies,Foreland (Rocky Mtn.),41.783,-109.208,3099.3462,47,8487.0,9,0.6538,3100.0
+506,Great Divide and Washakie Basins,Central-Southern Rockies,Foreland (Rocky Mtn.),41.65,-106.911,3099.3462,52,16236.0,11,0.6538,3100.0
+507,Thrust Belt and Fossil Basin,Central-Southern Rockies,Foreland (Rocky Mtn.),41.611,-110.711,3085.64,44,30575.0,11,14.36,3100.0
+508,Laramie Mountains,Central-Southern Rockies,Foreland (Rocky Mtn.),42.193,-104.245,3099.9883,27,1000.0,9,0.0117,3100.0
+509,Granite Mountains Uplift and Shirley Basin,Central-Southern Rockies,Foreland (Rocky Mtn.),42.05,-106.493,3097.42,40,10921.0,6,2.58,3100.0
+510,Wind River Range and Wind River Basin,Central-Southern Rockies,Foreland (Rocky Mtn.),42.986,-108.398,3098.2761,45,12530.0,10,1.7239,3100.0
+511,Teton and Gros Ventre Ranges,Central-Southern Rockies,Foreland (Rocky Mtn.),42.78,-110.618,3097.42,43,0.0,9,2.58,3100.0
+512,Black Hills,Central-Southern Rockies,Foreland (Rocky Mtn.),43.949,-104.206,2638.667,39,14255.0,14,5.333,2644.0
+513,Bighorn Mountains,Central-Southern Rockies,Foreland (Rocky Mtn.),44.414,-107.029,3075.55,27,4396.0,9,20.45,3096.0
+514,Owl Creek Mountains,Central-Southern Rockies,Foreland (Rocky Mtn.),43.579,-108.382,3071.55,28,4695.0,8,20.45,3092.0
+515,Bighorn Basin,Central-Southern Rockies,Foreland (Rocky Mtn.),44.761,-108.706,2847.9912,38,9807.0,8,0.0088,2848.0
+516,Maverick Basin,Gulf Coast,Passive margin & coastal plain,28.423,-99.851,358.86,44,8835.0,9,0.0,358.86
+517,South Texas,Gulf Coast,Passive margin & coastal plain,27.403,-98.25,166.025,47,21791.0,4,0.0,166.025
+518,Southeast Texas,Gulf Coast,Passive margin & coastal plain,30.286,-94.72,167.475,37,15797.0,2,0.0,167.475
+519,San Marcos Arch,Gulf Coast,Passive margin & coastal plain,29.44,-97.925,358.86,56,13127.0,6,0.0,358.86
+520,East Basin Texas (east),Gulf Coast,Passive margin & coastal plain,30.972,-96.442,1200.0,81,17530.0,9,0.0,1200.0
+521,East Texas Basin (east),Gulf Coast,Passive margin & coastal plain,32.86,-94.66,335.0,75,14091.0,8,0.0,335.0
+522,Sabine Uplift Northwest Louisiana East Texas,Gulf Coast,Passive margin & coastal plain,31.608,-93.5,238.116,84,13100.0,5,0.0,238.116
+523,North Louisiana Syncline Northwest Louisiana Southwest Arkansas,Gulf Coast,Passive margin & coastal plain,32.26,-92.98,238.116,63,14588.0,7,0.0,238.116
+524,Monroe Uplift Northeast Louisiana Southeast Arkansas West Central Mississip,Gulf Coast,Passive margin & coastal plain,32.63,-91.61,320.1,67,13715.0,8,0.0,320.1
+525,Toledo Bend Flexure Central Louisiana,Gulf Coast,Passive margin & coastal plain,31.04,-92.66,246.7,77,15405.0,5,0.0,246.7
+526,Gulf Coast Basin South Louisiana,Gulf Coast,Passive margin & coastal plain,29.67,-90.88,129.185,46,15803.0,6,0.0,129.185
+527,"Central Mississippi Uplift and Southern Flank Newton County, Mississippi",Gulf Coast,Passive margin & coastal plain,32.515,-89.287,538.8,41,4215.0,11,0.0,538.8
+528,"Mississippi Salt Basin Wayne County, Mississippi",Gulf Coast,Passive margin & coastal plain,31.632,-88.921,162.45,56,6761.0,10,0.0,162.45
+529,"Wiggins Arch Jackson County, Mississippi",Gulf Coast,Passive margin & coastal plain,30.48,-88.86,303.7,43,6310.0,6,0.0,303.7
+530,"Composite Outcrop Section, Southwest Alabama",Gulf Coast,Passive margin & coastal plain,31.87,-87.96,95.385,43,2303.0,6,0.0,95.385
+531,Mobile County Alabama,Gulf Coast,Passive margin & coastal plain,30.974,-88.198,358.86,36,6130.0,11,0.0,358.86
+532,Mobile Bay Alabama,Gulf Coast,Passive margin & coastal plain,30.37,-87.67,162.45,24,6577.0,8,0.0,162.45
+533,Covington County Alabama,Gulf Coast,Passive margin & coastal plain,31.1,-86.63,195.05,25,3134.0,6,32.25,227.3
+534,Barbour County Alabama,Gulf Coast,Passive margin & coastal plain,32.25,-85.41,162.74670000000003,11,1717.0,4,64.5533,227.3
+535,Houston County Alabama,Gulf Coast,Passive margin & coastal plain,31.224,-85.292,481.517,18,2472.0,5,5.333,486.85
+536,"Western Coastal Plain, Georgia",Gulf Coast,Passive margin & coastal plain,31.88,-84.71,562.85,33,2565.0,17,0.0,562.85
+537,Gulf Trough,Gulf Coast,Passive margin & coastal plain,31.12,-84.11,562.85,24,3805.0,17,0.0,562.85
+538,Southwestern Georgia Coastal Plain and Eastern Panhandle of Florida,Gulf Coast,Passive margin & coastal plain,30.45,-83.6,562.85,30,5157.0,18,0.0,562.85
+539,Southeastern Georgia Coastal Plain and Northeastern Florida,Gulf Coast,Passive margin & coastal plain,30.837,-82.109,562.85,39,5581.0,17,0.0,562.85
+540,Altamaha River Area,Gulf Coast,Passive margin & coastal plain,31.95,-82.34,562.85,26,2086.0,14,0.0,562.85
+541,Lower Savannah River Area,Gulf Coast,Passive margin & coastal plain,32.69,-81.85,562.85,27,2265.0,16,0.0,562.85
+542,"Upper Coastal Plain, Central Georgia",Gulf Coast,Passive margin & coastal plain,32.64,-83.46,562.85,26,5011.0,11,0.0,562.85
+543,Western Panhandle of Florida,Gulf Coast,Passive margin & coastal plain,30.73,-86.92,229.725,35,7483.0,15,0.0,229.725
+544,Central Panhandle of Florida,Gulf Coast,Passive margin & coastal plain,30.73,-85.83,562.85,38,8431.0,20,0.0,562.85
+545,Central Peninsular Florida,Gulf Coast,Passive margin & coastal plain,28.1,-81.55,538.8,39,4600.0,17,0.0,538.8
+546,Southern Florida,Gulf Coast,Passive margin & coastal plain,26.124,-80.82,237.0,46,7873.0,16,0.0,237.0
+547,Western Santa Clara County,Central California,Cordilleran & Alaska orogen,37.346,-121.921,147.675,10,7170.0,3,0.0,147.675
+548,Petaluma - Santa Rosa,Central California,Cordilleran & Alaska orogen,38.372,-122.695,147.675,11,4070.0,2,0.0,147.675
+549,Point Arena,Central California,Cordilleran & Alaska orogen,38.911,-123.593,92.875,10,7760.0,2,0.0,92.875
+550,Ben Lomond,Central California,Cordilleran & Alaska orogen,37.069,-122.104,397.7575,12,7595.0,3,0.0,397.7575
+551,La Honda,Central California,Cordilleran & Alaska orogen,37.322,-122.272,100.5,17,12731.0,1,0.0,100.5
+552,Pigeon Point,Central California,Cordilleran & Alaska orogen,37.235,-122.404,161.5,7,3425.0,3,0.0,161.5
+553,Pilarcitos,Central California,Cordilleran & Alaska orogen,37.528,-122.4,149.2,8,2579.8,3,0.0,149.2
+554,Point Reyes,Central California,Cordilleran & Alaska orogen,38.083,-122.908,100.5,8,4200.0,3,0.0,100.5
+555,Indians Ranch,Central California,Cordilleran & Alaska orogen,36.078,-121.456,397.7575,8,3595.0,3,0.0,397.7575
+556,"Indian and Shell Creeks, La Panza Range",Central California,Cordilleran & Alaska orogen,35.389,-120.288,103.675,9,1685.0,2,0.0,103.675
+557,Santa Margarita / Atascadero,Central California,Cordilleran & Alaska orogen,35.458,-120.676,164.35,13,5555.0,2,0.0,164.35
+558,Carmel Valley,Central California,Cordilleran & Alaska orogen,36.482,-121.741,397.7575,15,2866.0,5,0.0,397.7575
+559,San Juan Bautista,Central California,Cordilleran & Alaska orogen,36.83,-121.496,397.7575,9,2075.0,2,0.0,397.7575
+560,Bolado Park,Central California,Cordilleran & Alaska orogen,36.685,-121.282,144.625,11,2813.0,3,0.0,144.625
+561,Vallecitos / Panoche Hills,Central California,Cordilleran & Alaska orogen,36.551,-120.728,144.625,30,10752.0,6,0.0,144.625
+562,Priest Valley - Coalinga,Central California,Cordilleran & Alaska orogen,36.179,-120.49,144.625,38,15175.0,5,0.0,144.625
+563,North Kettleman Hills,Central California,Cordilleran & Alaska orogen,36.094,-120.134,144.625,38,27156.0,1,0.0,144.625
+564,Orchard Peak,Central California,Cordilleran & Alaska orogen,35.756,-120.147,144.625,21,9139.0,4,0.0,144.625
+565,Avenal - Devil,Central California,Cordilleran & Alaska orogen,35.618,-119.955,144.625,24,10456.0,3,0.0,144.625
+566,Lost Hills - Belridge,Central California,Cordilleran & Alaska orogen,35.575,-119.706,144.625,32,3888.0,7,0.0,144.625
+567,Cymric - Railroad Gap,Central California,Cordilleran & Alaska orogen,35.308,-119.607,48.07,21,3327.0,0,0.0,48.07
+568,Elk Hills,Central California,Cordilleran & Alaska orogen,35.248,-119.392,48.07,29,8130.0,6,0.0,48.07
+569,Midway - Sunset,Central California,Cordilleran & Alaska orogen,35.03,-119.22,42.79,26,5092.0,4,0.0,42.79
+570,Wheeler Ridge,Central California,Cordilleran & Alaska orogen,34.99,-118.89,155.939,18,2067.0,4,0.0,155.939
+571,Tejon,Central California,Cordilleran & Alaska orogen,34.98,-118.66,161.5,23,3980.0,4,0.0,161.5
+572,Edison / Mountain View,Central California,Cordilleran & Alaska orogen,35.246,-118.69,161.5,17,3847.0,2,0.0,161.5
+573,Bakersfield Arch,Central California,Cordilleran & Alaska orogen,35.441,-119.191,161.5,19,3861.0,1,0.0,161.5
+574,Trico,Central California,Cordilleran & Alaska orogen,35.72,-119.63,161.5,24,5910.0,4,0.0,161.5
+575,Helm/Riverdale,Central California,Cordilleran & Alaska orogen,36.503,-119.93,161.5,12,9435.6,2,0.0,161.5
+576,Southern Hudson Bay,Southeastern Canada,Shield & Arctic,55.168,-87.152,3200.0,16,818.0,7,0.0,3200.0
+577,Northern Hudson Bay,Southeastern Canada,Shield & Arctic,64.062,-84.821,3000.0,13,4660.0,6,0.0,3000.0
+580,Paleozoic Outliers: Clearwater Lake,Southeastern Canada,Shield & Arctic,50.113,-77.066,4031.0,6,0.0,3,0.0,4031.0
+582,Bruce Peninsula,Southeastern Canada,Shield & Arctic,44.868,-81.324,4031.0,26,497.0,4,0.0,4031.0
+586,Grand Banks,Southeastern Canada,Shield & Arctic,44.43,-52.899,850.0,13,1393.0,3,0.0,850.0
+587,Grand Banks,Southeastern Canada,Shield & Arctic,45.786,-50.257,298.9,9,1137.0,1,0.0,298.9
+588,Northern Avalon Peninsula,Southeastern Canada,Shield & Arctic,47.586,-53.373,850.0,21,11048.0,4,0.0,850.0
+589,Bonavista Bay,Southeastern Canada,Shield & Arctic,48.533,-53.546,850.0,20,16590.0,5,0.0,850.0
+592,Sutton Mountians,Southeastern Canada,Shield & Arctic,45.087,-72.63,1240.0,21,2719.0,5,0.0,1240.0
+593,Memphremagog Lake,Southeastern Canada,Shield & Arctic,45.053,-72.194,538.8,14,426.0,6,0.0,538.8
+594,Sherbrooke,Southeastern Canada,Shield & Arctic,45.429,-71.929,1300.0,13,0.0,9,0.0,1300.0
+597,Montmagny-Thetford Mines,Southeastern Canada,Shield & Arctic,46.384,-70.914,538.8,14,415.0,5,0.0,538.8
+598,Lake Aylmer-Gould,Southeastern Canada,Shield & Arctic,45.809,-71.323,538.8,10,610.0,5,0.0,538.8
+599,"Stoney Lake, Newfoundland",Southeastern Canada,Shield & Arctic,48.793,-57.313,478.7575,13,5791.0,5,0.0,478.7575
+600,"Springdale, Newfoundland",Southeastern Canada,Shield & Arctic,49.518,-56.18,486.85,17,10773.0,5,0.0,486.85
+601,Burlington Peninsula,Southeastern Canada,Shield & Arctic,49.961,-55.909,616.6,10,5438.0,6,0.0,616.6
+602,West Side White Bay,Southeastern Canada,Shield & Arctic,50.071,-56.776,1600.0,13,5972.0,5,0.0,1600.0
+603,Canada Bay - Coastal Lowlands,Southeastern Canada,Shield & Arctic,50.841,-56.079,1600.0,14,5253.0,6,0.0,1600.0
+604,Hare Bay - Long Range Mtns,Southeastern Canada,Shield & Arctic,51.34,-55.89,486.85,6,152.0,2,0.0,486.85
+605,Hawke Bay  Port Au Choix,Southeastern Canada,Shield & Arctic,50.609,-57.226,1600.0,9,914.0,4,0.0,1600.0
+606,St. Marys Bay,Southeastern Canada,Shield & Arctic,47.128,-53.725,713.072,15,10006.0,4,0.0,713.072
+607,southwestern Burin Peninsula,Southeastern Canada,Shield & Arctic,46.961,-55.855,850.0,11,3078.0,3,0.0,850.0
+608,Lake St. John,Southeastern Canada,Shield & Arctic,48.668,-72.014,2800.0,10,57.0,4,0.0,2800.0
+609,Temiscouata,Southeastern Canada,Shield & Arctic,47.706,-68.867,1600.0,17,14125.0,5,0.0,1600.0
+610,Lake Matapedia,Southeastern Canada,Shield & Arctic,48.569,-67.565,1550.0,18,10820.0,5,0.0,1550.0
+611,Woodstock,Southeastern Canada,Shield & Arctic,46.154,-67.599,501.0,11,274.0,4,0.0,501.0
+612,Lake Megantic,Southeastern Canada,Shield & Arctic,45.499,-70.867,486.85,8,0.0,4,0.0,486.85
+613,Northeastern Fortune Bay,Southeastern Canada,Shield & Arctic,47.696,-54.693,850.0,12,9602.0,5,0.0,850.0
+614,Belle Bay,Southeastern Canada,Shield & Arctic,47.725,-55.328,695.956,17,8749.0,7,0.0,695.956
+615,La Poile Bay-Bay DEspoir,Southeastern Canada,Shield & Arctic,47.693,-56.446,502.7,12,13198.0,5,0.0,502.7
+616,Flat Bay,Southeastern Canada,Shield & Arctic,47.863,-59.318,1600.0,9,9418.0,3,0.0,1600.0
+618,Humber Arm,Southeastern Canada,Shield & Arctic,48.937,-57.968,2050.0,15,6590.0,7,0.0,2050.0
+619,Bonne Bay,Southeastern Canada,Shield & Arctic,49.583,-57.935,1600.0,7,550.0,3,0.0,1600.0
+620,Southeastern Cape Breton Island,Southeastern Canada,Shield & Arctic,45.784,-60.398,695.956,20,1905.0,9,0.0,695.956
+621,Central and Northeastern Cape Breton Island,Southeastern Canada,Shield & Arctic,46.624,-60.36,850.0,15,10367.0,8,0.0,850.0
+622,Western Cape Breton Island,Southeastern Canada,Shield & Arctic,46.605,-61.054,850.0,14,14496.0,5,0.0,850.0
+623,Merigomish Antigonish,Southeastern Canada,Shield & Arctic,45.627,-62.338,635.0,18,8503.0,5,0.0,635.0
+624,Merigomish Antigonish,Southeastern Canada,Shield & Arctic,45.553,-62.042,635.0,15,12130.0,4,0.0,635.0
+625,Hayesville,Southeastern Canada,Shield & Arctic,46.495,-66.485,501.0,21,0.0,6,0.0,501.0
+626,St. Andrews-Plesant Mt.,Southeastern Canada,Shield & Arctic,45.073,-67.045,486.85,16,6096.0,9,0.0,486.85
+627,Eastern Cobequid MTNS.,Southeastern Canada,Shield & Arctic,45.68,-63.415,438.6,18,7650.0,2,0.0,438.6
+628,Northern Cobequid MTNS.,Southeastern Canada,Shield & Arctic,45.804,-63.821,438.6,13,4420.0,3,0.0,438.6
+629,Chignecto Bay,Southeastern Canada,Shield & Arctic,45.804,-64.555,616.6,13,5609.0,3,0.0,616.6
+630,Lower Saint John River,Southeastern Canada,Shield & Arctic,45.26,-66.087,850.0,36,11689.0,12,0.0,850.0
+631,Western Novia Scotia,Southeastern Canada,Shield & Arctic,44.42,-65.281,501.0,18,20409.0,6,0.0,501.0
+632,"Southern Nova Scotia, Scotian Shelf",Southeastern Canada,Shield & Arctic,45.02,-62.247,501.0,9,15.0,5,0.0,501.0
+634,Forillon Peninsula,Southeastern Canada,Shield & Arctic,48.871,-64.286,502.7,15,7782.0,3,0.0,502.7
+635,Mt. Albert,Southeastern Canada,Shield & Arctic,49.101,-65.533,1560.0,19,4146.0,7,0.0,1560.0
+636,East and Central Gaspe,Southeastern Canada,Shield & Arctic,48.789,-64.874,502.7,22,16364.0,5,0.0,502.7
+637,"Moncton, N.B. Price Edward Island",Southeastern Canada,Shield & Arctic,46.192,-64.603,616.6,17,4207.0,5,0.0,616.6
+638,Sussex-Petitcodiac,Southeastern Canada,Shield & Arctic,45.815,-65.368,616.6,12,11857.0,4,0.0,616.6
+639,Central and East New Brunswick,Southeastern Canada,Shield & Arctic,46.161,-66.219,443.1,10,756.0,3,0.0,443.1
+640,"Bay of Chaleur, Northern New Brunswick",Southeastern Canada,Shield & Arctic,48.005,-66.653,456.5,23,4709.0,7,0.0,456.5
+641,Southern Gaspe,Southeastern Canada,Shield & Arctic,48.149,-65.17,501.0,19,24902.0,4,0.0,501.0
+748,Yellowknife,Canadian Shield,Shield & Arctic,62.456,-114.351,1444.0,7,8000.0,4,1266.0,2710.0
+749,Tumi Lake,Canadian Shield,Shield & Arctic,63.196,-116.839,1517.3,8,1000.0,3,445.2,1962.5
+750,"Baler, Indin Lakes",Canadian Shield,Shield & Arctic,64.002,-117.303,3313.1823,13,8955.0,6,746.2677,4059.45
+751,"Arseno, Mesa, Grant Lakes",Canadian Shield,Shield & Arctic,64.99,-117.751,1993.7323000000001,16,9020.0,6,746.2677,2740.0
+752,Port Radium to Artic Coast,Canadian Shield,Shield & Arctic,67.053,-118.455,1822.7,22,9499.0,8,227.3,2050.0
+753,Point Lake to Coppermine,Canadian Shield,Shield & Arctic,67.538,-113.812,1997.7989999999998,18,2804.0,8,752.2,2749.999
+754,Contwoyto Lake to Kent Peninsula,Canadian Shield,Shield & Arctic,66.73,-110.334,2304.799,21,3881.0,8,445.2,2749.999
+755,Victoria Island,Canadian Shield,Shield & Arctic,71.098,-115.858,3396.8282,12,3128.0,5,379.0,3775.8282
+756,East Arm Great Slave Lake,Canadian Shield,Shield & Arctic,62.904,-109.367,1444.0,16,28934.0,4,1266.0,2710.0
+757,"Thelon River, Baker Lake",Canadian Shield,Shield & Arctic,64.419,-97.469,2691.815,17,5774.0,5,382.31,3074.125
+758,"Back River, Chantrey Inlet",Canadian Shield,Shield & Arctic,67.223,-96.11,1449.9974999999997,6,0.0,2,1150.0015,2599.999
+759,Boothia Peninsula,Canadian Shield,Shield & Arctic,71.781,-94.738,2212.049,10,2345.0,6,387.95,2599.999
+760,Wager Bay,Canadian Shield,Shield & Arctic,65.892,-90.565,1744.3282,6,0.0,3,1266.0,3010.3282
+761,Henik Lake,Canadian Shield,Shield & Arctic,61.536,-97.798,1808.125,12,300.0,2,1266.0,3074.125
+762,Snowbird Lake,Canadian Shield,Shield & Arctic,60.468,-103.182,1808.125,6,0.0,2,1266.0,3074.125
+763,Nonacho Great Slave Lake,Canadian Shield,Shield & Arctic,62.795,-107.493,1744.3282,6,14599.0,3,1266.0,3010.3282
+764,Uranium City,Canadian Shield,Shield & Arctic,59.504,-108.323,1649.9985,11,10509.0,4,1150.0015,2800.0
+765,"Amisk, Wildnest Lakes",Canadian Shield,Shield & Arctic,54.645,-103.296,3498.9407,10,4491.0,2,422.7,3921.6407
+766,Flin-Flon,Canadian Shield,Shield & Arctic,54.768,-101.881,1435.3125,7,0.0,1,2500.0,3935.3125
+767,"Lynn Lake, Granville Lake",Canadian Shield,Shield & Arctic,56.534,-100.906,970.0,5,3200.0,1,1830.0,2800.0
+768,"Thompson, Moak Lake",Canadian Shield,Shield & Arctic,55.746,-97.893,2377.3,8,30.0,4,422.7,2800.0
+769,"Cape Smith, Wakham Bay",Canadian Shield,Shield & Arctic,61.144,-74.836,1200.0,8,3048.0,1,1600.0,2800.0
+770,Schefferville,Canadian Shield,Shield & Arctic,54.947,-67.006,2699.5,18,800.0,4,100.5,2800.0
+771,Richmond Gulf,Canadian Shield,Shield & Arctic,56.247,-76.352,2545.86,7,1371.0,5,254.14,2800.0
+772,Belcher Islands,Canadian Shield,Shield & Arctic,56.416,-79.251,380.0,15,9810.0,0,1640.0,2020.0
+773,Southern Baffin Island,Canadian Shield,Shield & Arctic,65.656,-69.643,2766.1,5,0.0,3,33.9,2800.0
+774,Northern Baffin Island,Canadian Shield,Shield & Arctic,71.811,-79.157,2660.1989999999996,18,5330.0,7,89.8,2749.999
+775,"Cross, Gods Lakes",Canadian Shield,Shield & Arctic,54.611,-97.762,2497.3,10,0.0,3,422.7,2920.0
+776,Island Lake,Canadian Shield,Shield & Arctic,53.834,-94.605,1769.9985,8,0.0,3,1150.0015,2920.0
+777,Rice Lake-Lac Du Bonnet,Canadian Shield,Shield & Arctic,50.338,-95.991,2497.3,10,914.0,3,422.7,2920.0
+778,"Birch, Uchi Lakes",Canadian Shield,Shield & Arctic,51.124,-92.517,420.0,6,0.0,1,2500.0,2920.0
+779,Lake of the Woods,Canadian Shield,Shield & Arctic,49.14,-94.333,380.0,3,0.0,1,2500.0,2880.0
+780,Rainy River,Canadian Shield,Shield & Arctic,48.929,-93.863,1256.5,6,0.0,2,1703.5,2960.0
+781,"Rainy River, EMO",Canadian Shield,Shield & Arctic,48.803,-92.775,1236.5,6,0.0,2,1703.5,2940.0
+782,Steep Rock,Canadian Shield,Shield & Arctic,49.252,-87.915,1216.5,10,1050.0,2,1703.5,2920.0
+783,Port Arthur,Canadian Shield,Shield & Arctic,48.551,-89.204,1894.998,16,4418.0,5,1025.002,2920.0
+784,Kapuskasing,Canadian Shield,Shield & Arctic,49.416,-82.433,3692.2282,13,0.0,8,83.6,3775.8282
+785,Porcupine,Canadian Shield,Shield & Arctic,48.603,-81.279,1729.9985,8,0.0,2,1150.0015,2880.0
+786,Kirkland,Canadian Shield,Shield & Arctic,48.151,-80.029,2453.3,11,1000.0,6,426.7,2880.0
+787,Noranda,Canadian Shield,Shield & Arctic,48.244,-79.022,1729.9985,9,1000.0,5,1150.0015,2880.0
+788,Malartic,Canadian Shield,Shield & Arctic,48.946,-76.509,1729.9985,8,0.0,3,1150.0015,2880.0
+789,Chibougamau,Canadian Shield,Shield & Arctic,50.065,-74.366,1729.9985,12,160.0,5,1150.0015,2880.0
+790,"Fort George, Eastmain Rivers",Canadian Shield,Shield & Arctic,52.233,-78.499,1489.999,5,914.0,3,1350.001,2840.0
+791,Sudbury,Canadian Shield,Shield & Arctic,46.485,-80.985,1709.9985,22,15090.0,6,1150.0015,2860.0
+792,Espanola,Canadian Shield,Shield & Arctic,46.247,-81.766,1709.9985,18,12263.0,6,1150.0015,2860.0
+793,Elliot Lake,Canadian Shield,Shield & Arctic,46.384,-82.652,1709.9985,18,8824.0,6,1150.0015,2860.0
+794,Bruce Mines,Canadian Shield,Shield & Arctic,46.302,-83.789,650.0,16,7216.0,3,2210.0,2860.0
+795,Eastern Ontario,Canadian Shield,Shield & Arctic,44.786,-78.788,2415.3,12,0.0,6,174.7,2590.0
+796,South Eastern Quebec,Canadian Shield,Shield & Arctic,45.94,-75.665,2699.5,13,0.0,8,100.5,2800.0
+797,"Wabush, Mt. Wright",Canadian Shield,Shield & Arctic,52.919,-66.869,1475.0,6,0.0,3,1325.0,2800.0
+798,Wakeham Lake,Canadian Shield,Shield & Arctic,50.779,-63.015,898.25,4,0.0,2,901.75,1800.0
+799,Seal Lake,Canadian Shield,Shield & Arctic,54.345,-61.747,1898.25,5,13000.0,3,901.75,2800.0
+800,Northern Labrador,Canadian Shield,Shield & Arctic,58.665,-63.337,2061.3324000000002,7,615.0,3,738.6676,2800.0
+801,Supplemental Upper Mississippi embayment,Texas-Oklahoma Tectonic Region,Cratonic platform,36.429,-89.762,1552.0,39,3031.0,8,0.0,1552.0
+802,Supplemental Middle Mississippi embayment,Texas-Oklahoma Tectonic Region,Cratonic platform,34.685,-90.146,1120.0,102,375.0,17,0.0,1120.0
+803,Paleozoic Outliers: Lake Manicouagan,Southeastern Canada,Shield & Arctic,51.351,-68.774,1200.0,6,0.0,3,0.0,1200.0
+804,Paleozoic Outliers: Gilmour Lake,Southeastern Canada,Shield & Arctic,45.635,-75.552,1160.0,6,0.0,3,0.0,1160.0
+805,Paleozoic Outliers: Clear Lake,Southeastern Canada,Shield & Arctic,45.596,-76.056,1760.0,9,0.0,4,0.0,1760.0
+806,Paleozoic Outliers: Mattawa,Southeastern Canada,Shield & Arctic,46.317,-78.708,2800.0,5,0.0,2,0.0,2800.0
+807,Paleozoic Outliers: Lake Nipissing,Southeastern Canada,Shield & Arctic,46.417,-79.78,1140.0,5,0.0,2,0.0,1140.0
+808,"Rockbridge & Botetourt Counties, Virginia - East of Pulaski Fault",Northern Appalachians,Appalachian orogen,37.66,-79.482,601.5,24,7221.0,2,449.0,1050.5
+809,"Rockingham & Augusta Counties, Virginia - East of North Mtn Fault",Northern Appalachians,Appalachian orogen,38.231,-78.935,661.28,35,8355.0,6,383.72,1045.0
+810,"Northeast Valley & Ridge, Virginia - East of North Mtn Fault",Northern Appalachians,Appalachian orogen,38.901,-78.292,736.28,38,8828.0,8,383.72,1120.0
+811,Southeastern Kentucky: South of Pine Mtn,Southern Appalachians,Appalachian orogen,36.856,-83.208,726.25,41,6447.0,4,313.75,1040.0
+812,"Washington & Smyth Counties, Virginia: East of Pulaski Fault",Southern Appalachians,Appalachian orogen,36.694,-81.529,743.211,15,7016.0,3,456.789,1200.0
+813,"Wythe and Pulaski Counties, Virginia: East of Pulaski Fault",Southern Appalachians,Appalachian orogen,36.953,-80.702,77.42399999999998,15,4379.0,1,456.789,534.213
+814,"Montgomery and Roanoke Counties, Virginia: East of Pulaski Fault",Southern Appalachians,Appalachian orogen,37.19,-80.063,850.5,29,6903.0,5,349.5,1200.0
+815,eastern Port Au Port Peninsula,Southeastern Canada,Shield & Arctic,48.551,-58.852,1300.0,9,4732.0,5,0.0,1300.0
+816,Pistolete Bay - Coastal Lowlands,Southeastern Canada,Shield & Arctic,51.543,-55.692,515.726,7,4183.0,2,0.0,515.726
+817,Canada Bay - Long Range Mtns,Southeastern Canada,Shield & Arctic,50.732,-56.306,1600.0,7,0.0,3,0.0,1600.0
+818,"Botwood, Newfoundland",Southeastern Canada,Shield & Arctic,49.137,-55.37,486.85,11,14173.0,3,0.0,486.85
+819,"Gander Lake, Newfoundland",Southeastern Canada,Shield & Arctic,48.92,-54.949,503.25,12,4877.0,5,0.0,503.25
+820,Daniels Bay,Southeastern Canada,Shield & Arctic,50.237,-57.586,1600.0,9,1646.0,4,0.0,1600.0
+825,"Salton Trough, Split Mountain",Southern California,Cordilleran & Alaska orogen,32.961,-116.002,511.0,18,5310.0,2,0.0,511.0
+1419,Tampico-Misantla Basin,Mexico,Cordilleran & Alaska orogen,21.332,-98.079,1200.0,39,2560.0,8,0.0,1200.0
+1421,Sierra Madre Oriental,Mexico,Cordilleran & Alaska orogen,22.504,-99.799,1200.0,35,1672.0,8,0.0,1200.0
+1423,Burgos Basin,Mexico,Cordilleran & Alaska orogen,24.603,-98.922,454.0375,36,0.0,3,0.0,454.0375
+1425,Sabinas Basin,Mexico,Cordilleran & Alaska orogen,28.442,-101.288,454.0375,30,0.0,5,0.0,454.0375
+1427,Yucatan Platform,Mexico,Cordilleran & Alaska orogen,20.547,-88.762,454.0375,17,0.0,3,0.0,454.0375
+1429,Macuspana Basin - Gulf of Campeche and Villahermosa Uplift,Mexico,Cordilleran & Alaska orogen,18.211,-92.242,166.025,22,0.0,0,0.0,166.025
+1431,Sierra de Chiapas,Mexico,Cordilleran & Alaska orogen,16.911,-91.71,349.995,36,3165.0,5,0.0,349.995
+1433,Comalcalco Basin and Isthmus Saline Basin,Mexico,Cordilleran & Alaska orogen,17.697,-94.283,166.025,19,0.0,2,0.0,166.025
+1435,Veracruz Basin,Mexico,Cordilleran & Alaska orogen,18.689,-96.267,159.825,26,0.0,1,0.0,159.825
+1436,"St. Elias Mountains, Icefield, Alsek Ranges",Canadian Cordillera I,Cordilleran & Alaska orogen,60.817,-140.178,266.19169999999997,11,5799.0,5,39.425,305.6167
+1437,"St. Elias Mountains, Kluane Ranges",Canadian Cordillera I,Cordilleran & Alaska orogen,61.033,-138.832,372.15,19,8758.0,7,0.0,372.15
+1438,Queen Charlotte Islands,Canadian Cordillera I,Cordilleran & Alaska orogen,53.142,-132.193,234.5633,18,16350.0,4,0.0117,234.575
+1439,N. Vancouver Island and Continental Shelf,Canadian Cordillera I,Cordilleran & Alaska orogen,50.606,-128.065,238.116,19,18810.0,6,0.0,238.116
+1440,W. and SW Vancouver Island and Tofino Basin,Canadian Cordillera I,Cordilleran & Alaska orogen,48.605,-124.613,238.116,15,14810.0,3,0.0,238.116
+1441,Central and Southeast Vancouver Island,Canadian Cordillera I,Cordilleran & Alaska orogen,49.157,-124.204,379.77,26,9050.0,7,0.0,379.77
+1442,"St. Elias Mountains, Icefield and Alsek Ranges",Canadian Cordillera I,Cordilleran & Alaska orogen,60.04,-137.42,497.37,27,7700.0,9,2.58,499.95
+1443,"Coast Mountains, 54-55 degrees N West of Work Channel",Canadian Cordillera I,Cordilleran & Alaska orogen,54.497,-129.964,475.2696,15,2890.0,9,0.0,475.2696
+1444,Pemberton Bute,Canadian Cordillera I,Cordilleran & Alaska orogen,49.772,-122.655,322.3,13,2800.0,7,0.0,322.3
+1445,"Hope (W), N. of Fraser R.",Canadian Cordillera I,Cordilleran & Alaska orogen,49.41,-121.493,242.773,16,10393.0,9,0.0,242.773
+1446,Chilliwack Valley,Canadian Cordillera I,Cordilleran & Alaska orogen,49.146,-121.941,508.5,15,1500.0,8,0.0,508.5
+1447,Homathko River,Canadian Cordillera I,Cordilleran & Alaska orogen,51.313,-124.84,238.116,13,0.0,8,0.0,238.116
+1448,Chilko Lake,Canadian Cordillera I,Cordilleran & Alaska orogen,51.127,-124.035,221.9,13,1300.0,6,0.0,221.9
+1449,Tyaughton Creek,Canadian Cordillera I,Cordilleran & Alaska orogen,51.0,-122.728,238.116,10,4610.0,4,0.0,238.116
+1450,Bridge River,Canadian Cordillera I,Cordilleran & Alaska orogen,50.723,-121.953,263.0875,8,5100.0,5,0.0,263.0875
+1451,Manning Park,Canadian Cordillera I,Cordilleran & Alaska orogen,49.065,-120.782,238.116,10,6300.0,6,0.0,238.116
+1452,Aishihik Lake,Canadian Cordillera I,Cordilleran & Alaska orogen,61.454,-137.17,616.6,15,800.0,8,0.0,616.6
+1453,N. Carmacks,Canadian Cordillera I,Cordilleran & Alaska orogen,62.135,-136.216,616.6,14,2905.0,7,0.0,616.6
+1454,Laberge,Canadian Cordillera I,Cordilleran & Alaska orogen,61.426,-134.99,362.1825,19,5430.0,8,0.0,362.1825
+1455,Taku River,Canadian Cordillera I,Cordilleran & Alaska orogen,58.58,-133.638,616.6,25,3200.0,8,0.0,616.6
+1456,Stikine River,Canadian Cordillera I,Cordilleran & Alaska orogen,57.909,-131.512,413.02,27,6825.0,10,0.0,413.02
+1457,Cold Fish,Canadian Cordillera I,Cordilleran & Alaska orogen,57.913,-129.368,358.86,25,2700.0,8,0.0,358.86
+1458,Hazelton,Canadian Cordillera I,Cordilleran & Alaska orogen,55.276,-127.634,298.9,13,22250.0,6,0.0,298.9
+1459,"Coast Mountains, 54-55 degrees N East of Work Channel",Canadian Cordillera I,Cordilleran & Alaska orogen,54.513,-128.86,368.8275,9,0.0,5,0.0,368.8275
+1460,Whitesail Lake,Canadian Cordillera I,Cordilleran & Alaska orogen,53.504,-126.976,294.865,19,3600.0,9,0.0,294.865
+1461,Smithers Terrace,Canadian Cordillera I,Cordilleran & Alaska orogen,55.045,-127.987,294.865,21,6470.0,9,0.0,294.865
+1462,Fraser,Canadian Cordillera I,Cordilleran & Alaska orogen,52.116,-122.389,229.725,14,0.0,5,0.0,229.725
+1463,Nakina Lake,Canadian Cordillera I,Cordilleran & Alaska orogen,59.258,-133.272,358.86,22,4100.0,5,0.0,358.86
+1464,Dease Lake,Canadian Cordillera II,Cordilleran & Alaska orogen,58.621,-131.823,362.1796,15,4600.0,6,0.0029,362.1825
+1465,Cache Creek,Canadian Cordillera II,Cordilleran & Alaska orogen,50.829,-121.354,312.0,17,8322.0,10,0.0,312.0
+1466,Jennings River,Canadian Cordillera II,Cordilleran & Alaska orogen,58.693,-130.75,356.8245,21,4100.0,7,0.0088,356.8333
+1467,Fort St. James,Canadian Cordillera II,Cordilleran & Alaska orogen,56.413,-125.794,555.635,28,5930.0,14,0.0,555.635
+1468,Prince George,Canadian Cordillera II,Cordilleran & Alaska orogen,53.528,-122.601,358.86,16,890.0,9,0.0,358.86
+1469,Kamloops Nicola,Canadian Cordillera II,Cordilleran & Alaska orogen,50.676,-120.341,374.69,12,3200.0,6,0.0,374.69
+1470,South Okanagan,Canadian Cordillera II,Cordilleran & Alaska orogen,49.196,-119.352,2275.0,25,8082.0,10,0.0,2275.0
+1471,"Nelson (W), S. Kootenay Arc",Canadian Cordillera II,Cordilleran & Alaska orogen,49.262,-117.532,1550.002,35,14620.0,12,0.0,1550.002
+1472,"Nelson (E) Lardeau, Central Kootenay Arc",Canadian Cordillera II,Cordilleran & Alaska orogen,50.449,-117.537,2349.997,54,27951.0,14,0.0,2349.997
+1473,Old Crow Basin,Canadian Cordillera II,Cordilleran & Alaska orogen,68.762,-139.273,642.5323,19,22771.0,12,0.0,642.5323
+1474,Mackenzie Bay,Canadian Cordillera II,Cordilleran & Alaska orogen,68.523,-137.287,642.5323,19,24650.0,10,0.0,642.5323
+1475,Tombstone,Canadian Cordillera II,Cordilleran & Alaska orogen,64.55,-138.817,1690.0,35,9646.0,12,0.0,1690.0
+1476,Hess Mountains,Canadian Cordillera II,Cordilleran & Alaska orogen,64.319,-130.717,1700.0,21,11156.0,6,0.0,1700.0
+1477,Anvil Range,Canadian Cordillera II,Cordilleran & Alaska orogen,62.78,-134.215,616.6,25,4210.0,8,0.0,616.6
+1478,Campbell Range,Canadian Cordillera II,Cordilleran & Alaska orogen,61.469,-130.617,798.1323,17,7725.0,5,0.0,798.1323
+1479,Central Watson Lake,Canadian Cordillera II,Cordilleran & Alaska orogen,60.352,-128.729,520.2666,9,2700.0,6,0.0,520.2666
+1480,Logan Mountains,Canadian Cordillera II,Cordilleran & Alaska orogen,62.604,-129.404,616.6,15,9200.0,6,0.0,616.6
+1481,Broken Skull River,Canadian Cordillera II,Cordilleran & Alaska orogen,62.81,-127.445,1000.0,35,12790.0,9,0.0,1000.0
+1482,Redstone River,Canadian Cordillera III,Cordilleran & Alaska orogen,63.763,-124.699,798.1323,12,7900.0,5,0.0,798.1323
+1483,Cap Mountain,Canadian Cordillera III,Cordilleran & Alaska orogen,63.538,-123.243,2960.0,22,11980.0,12,0.0,2960.0
+1484,Big Salmon Range,Canadian Cordillera III,Cordilleran & Alaska orogen,61.031,-133.199,616.6,10,4875.0,4,0.0,616.6
+1485,Lapie River,Canadian Cordillera III,Cordilleran & Alaska orogen,61.155,-131.571,616.6,14,7700.0,8,0.0,616.6
+1486,McDame,Canadian Cordillera III,Cordilleran & Alaska orogen,58.92,-129.23,616.6,42,6200.0,11,0.0,616.6
+1487,Kechika Ranges East of Kechika Fault,Canadian Cordillera III,Cordilleran & Alaska orogen,58.822,-127.799,616.6,22,5805.0,9,0.0,616.6
+1488,Russel Ranges,Canadian Cordillera III,Cordilleran & Alaska orogen,56.652,-125.341,2275.0,21,6340.0,7,0.0,2275.0
+1489,Toad River,Canadian Cordillera III,Cordilleran & Alaska orogen,59.51,-125.695,1499.998,29,9646.0,12,0.0,1499.998
+1490,"Tuchodi Lakes, Trutch Ware",Canadian Cordillera III,Cordilleran & Alaska orogen,58.709,-125.315,1562.5,47,18780.0,10,0.0,1562.5
+1491,Western Muskwa Ranges,Canadian Cordillera III,Cordilleran & Alaska orogen,56.819,-124.751,787.76,25,7000.0,7,0.0,787.76
+1492,Adams Lake,Canadian Cordillera III,Cordilleran & Alaska orogen,51.466,-119.911,616.6,16,3800.0,6,0.0,616.6
+1493,Cariboo Lake,Canadian Cordillera III,Cordilleran & Alaska orogen,52.512,-121.113,2275.0,12,1420.0,7,0.0,2275.0
+1494,Cariboo Lake,Canadian Cordillera III,Cordilleran & Alaska orogen,53.114,-120.909,545.2137,20,9525.0,7,0.0,545.2137
+1495,Kickinghorse River,Canadian Cordillera III,Cordilleran & Alaska orogen,51.493,-116.723,508.5,9,4110.0,3,0.0,508.5
+1496,Seymour Arm Golden,Canadian Cordillera III,Cordilleran & Alaska orogen,50.996,-117.116,2275.0,26,8812.0,8,0.0,2275.0
+1497,Turner Valley,Canadian Cordillera III,Cordilleran & Alaska orogen,50.011,-114.265,2324.0,45,8408.0,13,0.0,2324.0
+1498,Elko-Fernie,Canadian Cordillera III,Cordilleran & Alaska orogen,49.504,-114.386,1460.0,53,7344.0,18,0.0,1460.0
+1499,Waterton Pincher CK,Canadian Cordillera III,Cordilleran & Alaska orogen,49.06,-113.881,1560.0,58,13436.0,14,0.0,1560.0
+1500,Coast Mountains,Canadian Cordillera I,Cordilleran & Alaska orogen,60.583,-135.826,616.5883,6,0.0,4,0.0117,616.6
+1501,"Banks Island, Northwest",Canadian Arctic I,Shield & Arctic,74.152,-123.321,401.6877,7,1740.0,3,4.6448,406.3325
+1502,"Banks Island, central",Canadian Arctic I,Shield & Arctic,73.2,-121.416,918.575,18,17914.0,5,39.425,958.0
+1503,"Banks Island, Southeast",Canadian Arctic I,Shield & Arctic,72.086,-121.068,1200.0,11,3060.0,3,0.0,1200.0
+1504,Victorian and Stefansson Islands,Canadian Arctic I,Shield & Arctic,70.889,-109.575,2378.3699,19,7750.0,9,391.6301,2770.0
+1505,"Prince of Wales Island, west",Canadian Arctic I,Shield & Arctic,72.628,-99.899,2237.58,7,3860.0,3,412.42,2650.0
+1506,"Prince of Wales Island, east",Canadian Arctic I,Shield & Arctic,72.415,-96.757,2469.73,11,2330.0,6,413.02,2882.75
+1507,Somerset Island,Canadian Arctic I,Shield & Arctic,73.436,-94.503,2823.51,18,5164.0,8,59.24,2882.75
+1508,"Somerset Island, east",Canadian Arctic I,Shield & Arctic,73.269,-92.28,2777.3,14,2500.0,3,422.7,3200.0
+1509,"Baffin Island, north",Canadian Arctic I,Shield & Arctic,72.943,-84.36,2143.65,19,8120.0,8,431.35,2575.0
+1510,Bylot Island,Canadian Arctic I,Shield & Arctic,73.262,-78.891,2608.97,13,5320.0,6,41.03,2650.0
+1511,"Foxe Basin, Rowley/Prince Charles Is.",Canadian Arctic I,Shield & Arctic,67.935,-76.327,2449.85,6,590.0,4,432.9,2882.75
+1512,"Devon Island, central/east",Canadian Arctic I,Shield & Arctic,75.01,-86.112,2468.63,18,3260.0,8,414.12,2882.75
+1513,"Southern Ellesmere Island, southwest",Canadian Arctic I,Shield & Arctic,76.759,-86.262,2586.1566000000003,22,5040.0,6,373.8434,2960.0
+1514,"Southern Ellesmere Island, Fram Fiord",Canadian Arctic I,Shield & Arctic,76.51,-80.846,2405.65,9,1450.0,4,477.1,2882.75
+1515,"Southern Ellesmere Island, Makinson Inlet",Canadian Arctic I,Shield & Arctic,77.395,-82.615,2499.0299999999997,21,3480.0,5,383.72,2882.75
+1516,"Southern Ellesmere Island, Bache Peninsula",Canadian Arctic I,Shield & Arctic,79.162,-75.358,2412.9713,15,2050.0,5,469.7787,2882.75
+1517,Prince Patrick Island,Canadian Arctic I,Shield & Arctic,76.955,-118.719,408.3752,30,8300.0,6,4.6448,413.02
+1518,Eglinton Island,Canadian Arctic I,Shield & Arctic,75.737,-118.417,111.17499999999998,10,1860.0,3,70.65,181.825
+1519,"Melville Island, northwest",Canadian Arctic I,Shield & Arctic,76.073,-115.255,369.51250000000005,29,8620.0,9,110.025,479.5375
+1520,"Melville Island, central",Canadian Arctic I,Shield & Arctic,75.242,-112.206,98.17660000000001,11,6100.0,0,378.9234,477.1
+1521,"Melville Island, northeast",Canadian Arctic I,Shield & Arctic,75.957,-108.75,389.09000000000003,51,12710.0,10,61.66,450.75
+1522,Cameron Island,Canadian Arctic I,Shield & Arctic,76.477,-104.08,249.48999999999998,21,11450.0,9,170.9,420.39
+1523,"Bathurst Island, west and central",Canadian Arctic I,Shield & Arctic,75.998,-101.362,96.67250000000001,13,5750.0,2,368.8275,465.5
+1524,"Bathurst Island, east",Canadian Arctic I,Shield & Arctic,75.848,-98.157,424.47,13,4595.0,3,41.03,465.5
+1525,"Cornwallis Island, north",Canadian Arctic I,Shield & Arctic,75.357,-95.03,116.22999999999996,16,9050.0,2,383.72,499.95
+1526,"Cornwallis Island, south",Canadian Arctic I,Shield & Arctic,74.858,-94.72,117.27999999999997,22,10140.0,3,383.72,501.0
+1527,"Devon Island,Grinnel Peninsula",Canadian Arctic I,Shield & Arctic,76.393,-92.19,197.35000000000002,23,5135.0,7,266.9,464.25
+1528,"Mackenzie King, Brock, Borden Islands",Canadian Arctic I,Shield & Arctic,77.912,-111.246,302.7317,21,6770.0,3,3.2683,306.0
+1529,Lougheed Island,Canadian Arctic II,Shield & Arctic,77.354,-105.103,182.0,25,3880.0,3,67.55,249.55
+1530,"King Christian, Ellef, Ringnes Islands",Canadian Arctic II,Shield & Arctic,78.441,-103.147,184.35199999999998,19,8210.0,0,67.55,251.902
+1531,"Ellef Ringnes Island, north",Canadian Arctic II,Shield & Arctic,79.128,-104.688,320.4802,24,5580.0,5,4.6448,325.125
+1532,"Ellef Ringnes Island, southeast",Canadian Arctic II,Shield & Arctic,78.25,-100.498,154.35000000000002,12,4550.0,0,67.55,221.9
+1533,"Amund Ringnes Island, north and southwest",Canadian Arctic II,Shield & Arctic,78.234,-96.667,154.35000000000002,16,6940.0,0,67.55,221.9
+1534,Cornwall Island,Canadian Arctic II,Shield & Arctic,77.589,-94.802,263.245,24,6890.0,5,41.03,304.275
+1535,Graham Island,Canadian Arctic II,Shield & Arctic,77.409,-90.37,239.95,20,5310.0,5,67.55,307.5
+1536,"Axel Heiberg Island, south",Canadian Arctic II,Shield & Arctic,78.678,-90.581,181.108,21,5380.0,1,59.24,240.348
+1537,Axel Heiberg Island,Canadian Arctic II,Shield & Arctic,79.486,-92.597,279.07000000000005,21,7800.0,2,41.03,320.1
+1538,"Axel Heiberg Island, northwest",Canadian Arctic II,Shield & Arctic,80.319,-94.687,221.6167,20,5520.0,4,98.85,320.4667
+1539,"Axel Heiberg Island, east",Canadian Arctic II,Shield & Arctic,79.852,-89.973,286.20000000000005,20,8370.0,5,33.9,320.1
+1540,"Axel Heiberg Island, north",Canadian Arctic II,Shield & Arctic,80.944,-92.987,311.34,17,8300.2,10,246.7,558.04
+1541,"Central Ellesmere Island, Bjorne Pen.",Canadian Arctic II,Shield & Arctic,77.568,-87.014,373.0125,32,12990.0,6,115.25,488.2625
+1542,"Central Ellesmere Island, Svendsen Pen.",Canadian Arctic II,Shield & Arctic,78.047,-84.07,1671.0765999999999,11,6920.0,3,378.9234,2050.0
+1543,"Central Ellesmere Island, Raanes Pen.",Canadian Arctic II,Shield & Arctic,78.472,-86.09,259.525,16,7080.0,2,190.725,450.25
+1544,"Central Ellesmere Island, W. Fosheim Pen.",Canadian Arctic II,Shield & Arctic,79.994,-85.214,207.82,18,6970.0,2,41.03,248.85
+1545,"Central Ellesmere Island, E. Fosheim Pen.",Canadian Arctic II,Shield & Arctic,79.323,-82.972,480.93,45,16570.0,7,48.07,529.0
+1546,"Central Ellesmere Island, s. Caledonian Bay",Canadian Arctic II,Shield & Arctic,79.798,-80.642,1636.98,8,4840.0,2,413.02,2050.0
+1547,"Central Ellesmere Island, Caledonian Bay",Canadian Arctic II,Shield & Arctic,80.146,-81.89,164.26,11,5756.0,1,292.665,456.925
+1548,"Central Ellesmere Island, Copes Bay-Carl Ritter Bay",Canadian Arctic II,Shield & Arctic,79.895,-72.834,473.0,22,13510.0,3,56.0,529.0
+1549,"Central Ellesmere Island, sw Judge Daly Promontory",Canadian Arctic II,Shield & Arctic,80.823,-69.704,110.64660000000003,15,4790.0,3,413.02,523.6666
+1550,"Central Ellesmere Island, se Ella Bay",Canadian Arctic II,Shield & Arctic,81.171,-67.569,73.83000000000004,9,2460.0,2,413.02,486.85
+1551,"Central Ellesmere Island, Ella Bay",Canadian Arctic II,Shield & Arctic,81.336,-70.673,96.30000000000001,4,900.0,0,426.7,523.0
+1552,"Central Ellesmere Island, St. Patrick Bay",Canadian Arctic II,Shield & Arctic,81.851,-64.322,463.76,5,760.0,1,59.24,523.0
+1553,"Central Ellesmere Island, Blue Mountains",Canadian Arctic II,Shield & Arctic,80.801,-86.954,217.48330000000004,19,7340.0,3,102.6167,320.1
+1554,"Central Ellesmere Island, west Svartfjeld Pen.",Canadian Arctic II,Shield & Arctic,80.873,-88.954,99.99990000000003,12,5870.0,2,220.1001,320.1
+1555,"Central Ellesmere Island, Van Hauen Pass",Canadian Arctic II,Shield & Arctic,81.044,-85.779,85.52500000000003,7,3580.0,2,234.575,320.1
+1556,"Central Ellesmere Island, Hare Fiord head",Canadian Arctic II,Shield & Arctic,81.194,-82.369,315.3,12,3960.0,4,205.7,521.0
+1557,"Central Ellesmere Island, Ooblooyah Bay",Canadian Arctic II,Shield & Arctic,80.929,-83.31,123.025,10,3170.0,3,190.725,313.75
+1558,"Central Ellesmere Island, east of Tanquary Fiord",Canadian Arctic II,Shield & Arctic,80.911,-78.658,2548.825,8,1380.0,4,251.175,2800.0
+1559,McKinley Bay,Canadian Arctic III,Shield & Arctic,81.177,-79.239,205.17499999999998,18,3853.0,3,110.025,315.2
+1560,Head of Tanquary Fiord,Canadian Arctic III,Shield & Arctic,81.515,-76.797,418.975,22,2830.0,4,110.025,529.0
+1561,Henrietta Nesmith Glacier,Canadian Arctic III,Shield & Arctic,81.732,-73.448,286.227,9,2380.0,3,242.773,529.0
+1562,Lake Hazen,Canadian Arctic III,Shield & Arctic,81.888,-71.428,487.1,20,2880.0,11,33.9,521.0
+1563,Head of Emma Fiord,Canadian Arctic III,Shield & Arctic,81.48,-88.031,404.70000000000005,7,4000.0,4,33.9,438.6
+1564,Kleybolte Peninsula,Canadian Arctic III,Shield & Arctic,81.64,-91.515,344.70000000000005,7,5620.0,4,93.9,438.6
+1565,south of Phillips Inlet,Canadian Arctic III,Shield & Arctic,81.691,-85.664,381.79,6,4160.0,3,56.81,438.6
+1566,head of Yelverton Inlet,Canadian Arctic III,Shield & Arctic,81.92,-80.328,385.835,19,8830.0,6,181.825,567.66
+1567,Wootton Peninsula to SE of Milne Inlet,Canadian Arctic III,Shield & Arctic,82.294,-83.913,1116.1,13,4010.0,5,33.9,1150.0
+1568,McLintock Glacier,Canadian Arctic III,Shield & Arctic,82.316,-76.31,415.56,7,5140.0,4,23.04,438.6
+1569,McLintock Inlet,Canadian Arctic III,Shield & Arctic,82.813,-77.539,242.52500000000003,21,7295.0,8,234.575,477.1
+1570,Head of McLintock Inlet,Canadian Arctic III,Shield & Arctic,82.535,-76.5,539.8100000000001,7,1460.0,3,23.04,562.85
+1571,Head of Disraeli Fiord,Canadian Arctic III,Shield & Arctic,82.727,-73.429,7.86669999999998,4,1050.0,0,438.6,446.4667
+1572,"East of Disraeli Fiord, to Markham Fiord",Canadian Arctic III,Shield & Arctic,82.942,-72.842,195.64500000000004,9,4800.0,4,264.28,459.925
+1573,C. Columbia to C. Nares,Canadian Arctic III,Shield & Arctic,83.124,-71.234,720.6659999999999,4,970.0,2,306.0,1026.666
+1574,NW of Clements Markham River,Canadian Arctic III,Shield & Arctic,82.677,-69.302,753.1,9,4830.0,7,266.9,1020.0
+1575,Cresent Glacier to Clements Markham Inlet,Canadian Arctic III,Shield & Arctic,82.612,-69.59,739.9,6,4550.0,5,300.1,1040.0
+1576,Feilden and Parry Peninsulas,Canadian Arctic III,Shield & Arctic,82.715,-65.072,763.1,8,5250.0,6,266.9,1030.0
+1577,NW of Piper Pass,Canadian Arctic III,Shield & Arctic,82.517,-69.199,724.575,7,1840.0,4,305.425,1030.0
+1578,Inglefield Land,Canadian Arctic III,Shield & Arctic,78.697,-69.432,2382.8,10,670.0,2,499.95,2882.75
+1579,Washington Land,Canadian Arctic III,Shield & Arctic,80.219,-66.192,97.64999999999998,20,3585.0,0,431.35,529.0
+1580,Petermann Glacier,Canadian Arctic III,Shield & Arctic,80.809,-63.584,19.5,9,2795.0,2,425.7,445.2
+1581,Western North Greenland,Canadian Arctic III,Shield & Arctic,81.733,-47.906,103.30000000000001,20,4710.0,0,425.7,529.0
+1582,"Southern Peary Land,Independence Fiord",Canadian Arctic III,Shield & Arctic,82.081,-32.75,1322.2666,17,8660.0,3,427.7334,1750.0
+1583,Danmark Fiord,Canadian Arctic III,Shield & Arctic,81.007,-21.268,1621.75,13,7285.0,3,428.25,2050.0
+1584,Western North Greenland,Canadian Arctic III,Shield & Arctic,82.282,-50.299,109.70999999999998,13,9460.0,1,419.29,529.0
+1585,Northern Peary Land,Canadian Arctic III,Shield & Arctic,83.038,-35.499,1688.34,15,10855.0,3,61.66,1750.0
+1586,"Southampton, Coats, Mansel Islands","Southern Prairie Prov., Hudson Platform",Cratonic platform,62.57,-83.031,2599.9873,13,541.0,6,0.0117,2599.999
+1587,northern Hudson Bay,"Southern Prairie Prov., Hudson Platform",Cratonic platform,60.526,-88.142,3010.3165,23,7650.0,11,0.0117,3010.3282
+1588,northern Hudson Bay Lowland,"Southern Prairie Prov., Hudson Platform",Cratonic platform,56.636,-91.08,2999.9883,21,2888.0,10,0.0117,3000.0
+1589,central Hudson Bay,"Southern Prairie Prov., Hudson Platform",Cratonic platform,57.176,-84.465,1937.4883,21,1681.0,9,0.0117,1937.5
+1590,Central Hudson Bay Lowland,"Southern Prairie Prov., Hudson Platform",Cratonic platform,54.525,-82.968,3010.3165,12,330.0,6,0.0117,3010.3282
+1591,north James Bay lowland,"Southern Prairie Prov., Hudson Platform",Cratonic platform,52.9,-83.247,3199.9883,19,345.0,9,0.0117,3200.0
+1592,central James Bay lowland,"Southern Prairie Prov., Hudson Platform",Cratonic platform,52.104,-81.945,3074.1133,18,714.0,9,0.0117,3074.125
+1593,south James Bay lowland,"Southern Prairie Prov., Hudson Platform",Cratonic platform,51.075,-80.168,3074.1133,18,728.0,9,0.0117,3074.125
+1594,"Windsor, Sarnia","Southern Prairie Prov., Hudson Platform",Cratonic platform,42.144,-82.697,1449.9883,43,1346.0,8,0.0117,1450.0
+1595,Allegheny Basin,"Southern Prairie Prov., Hudson Platform",Cratonic platform,42.653,-82.186,1524.9883,39,1248.0,12,0.0117,1525.0
+1596,Michigan Basin,"Southern Prairie Prov., Hudson Platform",Cratonic platform,45.743,-82.195,3112.3883,36,666.0,13,0.0117,3112.4
+1597,Algonquin Arch,"Southern Prairie Prov., Hudson Platform",Cratonic platform,43.922,-80.731,1379.9863,28,902.0,6,0.0117,1379.998
+1598,Allegheny Basin,"Southern Prairie Prov., Hudson Platform",Cratonic platform,42.998,-79.636,1449.9883,44,1428.0,10,0.0117,1450.0
+1599,Lake Timiskaming Outlier,"Southern Prairie Prov., Hudson Platform",Cratonic platform,47.338,-79.742,3112.3883,17,317.0,8,0.0117,3112.4
+1600,Pembroke-Arnprior Outlier Ottawa and St. Lawrence River,"Southern Prairie Prov., Hudson Platform",Cratonic platform,45.345,-75.458,1449.9883,25,965.0,8,0.0117,1450.0
+1601,Montreal,"Southern Prairie Prov., Hudson Platform",Cratonic platform,45.638,-73.591,1199.9863,27,1588.0,12,0.0117,1199.998
+1602,St. Hyacinthe,"Southern Prairie Prov., Hudson Platform",Cratonic platform,45.446,-73.214,1449.9883,21,2758.0,6,0.0117,1450.0
+1603,Lac St. Jean-Chicoutimi Outlier Quebec City,"Southern Prairie Prov., Hudson Platform",Cratonic platform,46.924,-71.157,1519.9883,15,346.0,4,0.0117,1520.0
+1604,Nicolet-Yamaska,"Southern Prairie Prov., Hudson Platform",Cratonic platform,46.397,-71.855,1449.9883,19,1242.0,5,0.0117,1450.0
+1605,N. Shore and Mingan Island Anticosti Island,"Southern Prairie Prov., Hudson Platform",Cratonic platform,49.437,-63.169,1499.9863,19,2701.0,6,0.0117,1499.998
+1606,Gulf of St. Lawrence,"Southern Prairie Prov., Hudson Platform",Cratonic platform,49.866,-61.551,1539.9883,23,11255.0,9,0.0117,1540.0
+1607,Port au Port Peninsula,"Southern Prairie Prov., Hudson Platform",Cratonic platform,48.898,-58.416,1224.9883,28,11298.0,7,0.0117,1225.0
+1608,Southeast Labrador Strait of Belle Isle,"Southern Prairie Prov., Hudson Platform",Cratonic platform,50.731,-58.449,1749.9883,19,1451.0,5,0.0117,1750.0
+1609,Canada Bay,"Southern Prairie Prov., Hudson Platform",Cratonic platform,50.021,-58.652,1224.9883,14,2246.0,4,0.0117,1225.0
+1610,Brandon,"Southern Prairie Prov., Hudson Platform",Cratonic platform,49.426,-100.48,2739.9883,45,2610.0,11,0.0117,2740.0
+1611,"Big Muddy, Willow Bunch","Southern Prairie Prov., Hudson Platform",Cratonic platform,49.149,-105.055,2882.7383,49,4020.0,12,0.0117,2882.75
+1612,"Maple Creek, Swift Current","Southern Prairie Prov., Hudson Platform",Cratonic platform,49.549,-108.599,2882.7383,57,4529.0,12,0.0117,2882.75
+1613,Sweetgrass Arch,"Southern Prairie Prov., Hudson Platform",Cratonic platform,49.364,-110.676,2882.75,57,3985.0,12,0.0,2882.75
+1614,Waterton Pincher Creek,"Southern Prairie Prov., Hudson Platform",Cratonic platform,49.268,-113.837,1578.5623,57,13226.0,13,0.0117,1578.574
+1615,"Fernie Basin: Elko, Fernie","Southern Prairie Prov., Hudson Platform",Cratonic platform,49.669,-115.293,1460.0,52,12623.0,18,0.0,1460.0
+1616,Gataga River,Prairie Provinces and British Columbia,Cratonic platform,58.173,-125.63,698.75,8,1160.0,3,0.0,698.75
+1617,"Roosevelt Graben, Mount Churchill",Prairie Provinces and British Columbia,Cratonic platform,58.193,-123.698,2300.0,20,6800.0,8,0.0,2300.0
+1618,"Macdonald Platform, Summit Lake",Prairie Provinces and British Columbia,Cratonic platform,57.993,-121.846,1557.142,27,8020.0,10,0.0,1557.142
+1619,Liard and Scatter Rivers,Prairie Provinces and British Columbia,Cratonic platform,59.458,-122.829,1975.0,31,9530.0,10,0.0,1975.0
+1620,Zama Lake,Prairie Provinces and British Columbia,Cratonic platform,58.673,-118.951,2400.0,25,2434.0,7,0.0,2400.0
+1621,"Western Rocky Mtns, Ware map area",Prairie Provinces and British Columbia,Cratonic platform,56.705,-122.29,698.75,17,4070.0,6,0.0,698.75
+1622,"Eastern Rocky Mtns, Halfway map area",Prairie Provinces and British Columbia,Cratonic platform,56.305,-121.468,2250.0,57,13506.0,12,0.0,2250.0
+1623,"Peace River Arch/Embayment, Pine Pass",Prairie Provinces and British Columbia,Cratonic platform,55.88,-120.939,698.75,57,14280.0,11,0.0,698.75
+1624,"Peace River Plains, Fort St. John",Prairie Provinces and British Columbia,Cratonic platform,56.178,-120.234,2350.0,48,5479.0,9,0.0,2350.0
+1625,"Hay River Basin, Fort McMurray",Prairie Provinces and British Columbia,Cratonic platform,57.363,-111.629,2000.0,26,2510.0,7,0.0,2000.0
+1626,"Front Range, Narraway River",Prairie Provinces and British Columbia,Cratonic platform,54.254,-120.18,504.75,58,9331.0,12,0.0,504.75
+1627,Swan Hills,Prairie Provinces and British Columbia,Cratonic platform,54.826,-115.211,2324.0,50,4956.0,9,0.0,2324.0
+1628,Cold Lake,Prairie Provinces and British Columbia,Cratonic platform,54.432,-110.303,3200.0,29,1160.0,8,0.0,3200.0
+1629,Cumberland House,Prairie Provinces and British Columbia,Cratonic platform,53.659,-102.571,4031.0,19,575.0,6,0.0,4031.0
+1630,"Mount Robson Syncline, Mount Robson",Prairie Provinces and British Columbia,Cratonic platform,53.295,-119.074,642.5323,15,11010.0,2,0.0,642.5323
+1631,"Jasper, eastern main ranges",Prairie Provinces and British Columbia,Cratonic platform,52.904,-117.914,663.3331,20,5444.0,5,0.0,663.3331
+1632,"Roche Miette, west Alberta ridge",Prairie Provinces and British Columbia,Cratonic platform,53.268,-117.594,2300.0,45,3855.0,13,0.0,2300.0
+1633,"Brule, eastern Alberta foothills",Prairie Provinces and British Columbia,Cratonic platform,53.659,-116.987,2300.0,57,7190.0,14,0.0,2300.0
+1634,Edmonton,Prairie Provinces and British Columbia,Cratonic platform,53.661,-113.554,4031.0,42,2881.0,7,0.0,4031.0
+1635,Lloydminster,Prairie Provinces and British Columbia,Cratonic platform,52.519,-110.451,4031.0,34,1491.0,10,0.0,4031.0
+1636,Saskatoon,Prairie Provinces and British Columbia,Cratonic platform,52.175,-106.489,3100.0,37,1750.0,11,0.0,3100.0
+1637,Lake Winnipegosis,Prairie Provinces and British Columbia,Cratonic platform,52.163,-100.857,3400.0,20,714.0,8,0.0,3400.0
+1638,Stanford-Huges Ranges,Prairie Provinces and British Columbia,Cratonic platform,50.401,-115.797,1500.0,29,17305.0,8,0.0,1500.0
+1639,Kickinghorse River,Prairie Provinces and British Columbia,Cratonic platform,51.031,-116.093,508.5,10,4840.0,2,0.0,508.5
+1640,"Spray River, Connor Lake",Prairie Provinces and British Columbia,Cratonic platform,51.211,-115.264,2050.0,43,7407.0,13,0.0,2050.0
+1641,Exshaw,Prairie Provinces and British Columbia,Cratonic platform,50.906,-114.989,2300.0,61,8617.0,17,0.0,2300.0
+1642,Turner Valley,Prairie Provinces and British Columbia,Cratonic platform,50.459,-114.276,2324.0,45,9296.0,12,0.0,2324.0
+1643,"Calgary, Drumheller",Prairie Provinces and British Columbia,Cratonic platform,51.274,-114.028,2500.0,41,3688.0,8,0.0,2500.0
+1644,"Moose Jaw, Regina, northern Williston Basin",Prairie Provinces and British Columbia,Cratonic platform,50.426,-104.963,2500.0,37,1780.0,11,0.0,2500.0
+1645,Lake Manitoba,Prairie Provinces and British Columbia,Cratonic platform,50.513,-99.209,3200.0,18,635.0,8,0.0,3200.0
+1646,"Brithis-Barn Mountains, Old Crow Basin","Northwest, Yukon Territories",Cordilleran & Alaska orogen,67.751,-139.853,642.5323,18,22681.0,11,0.0,642.5323
+1647,Mackenzie Bay,"Northwest, Yukon Territories",Cordilleran & Alaska orogen,68.777,-137.226,720.0,17,25050.0,8,0.0,720.0
+1648,White Mountains,"Northwest, Yukon Territories",Cordilleran & Alaska orogen,67.172,-139.211,923.1318,26,12670.0,9,0.0,923.1318
+1649,Northern Richardson Mountains,"Northwest, Yukon Territories",Cordilleran & Alaska orogen,67.036,-137.369,1000.0,35,14010.0,10,0.0,1000.0
+1650,Mackenzie Delta,"Northwest, Yukon Territories",Cordilleran & Alaska orogen,69.131,-133.994,440.55,30,13565.0,9,0.0,440.55
+1651,Inuvik,"Northwest, Yukon Territories",Cordilleran & Alaska orogen,67.943,-132.77,923.1201,6,1660.0,4,0.0117,923.1318
+1652,Anderson Plain,"Northwest, Yukon Territories",Cordilleran & Alaska orogen,68.993,-131.014,1026.0,25,5078.0,10,0.0,1026.0
+1653,Melville Hills,"Northwest, Yukon Territories",Cordilleran & Alaska orogen,68.317,-126.655,1199.998,19,2190.0,7,0.0,1199.998
+1654,Coppermine Homocline,"Northwest, Yukon Territories",Cordilleran & Alaska orogen,68.64,-123.42,1960.0,12,8860.0,6,0.0,1960.0
+1655,Kandik River,"Northwest, Yukon Territories",Cordilleran & Alaska orogen,65.829,-138.751,1199.998,36,13135.0,13,0.0,1199.998
+1656,Eagle Plain,"Northwest, Yukon Territories",Cordilleran & Alaska orogen,66.548,-137.569,1499.998,23,6340.0,8,0.0,1499.998
+1657,Bonnet Plume Basin,"Northwest, Yukon Territories",Cordilleran & Alaska orogen,65.718,-135.657,720.0,13,6120.0,5,0.0,720.0
+1658,Eastern Wernecke Mountains,"Northwest, Yukon Territories",Cordilleran & Alaska orogen,64.891,-134.436,1640.0,28,20890.0,8,0.0,1640.0
+1659,Snake River,"Northwest, Yukon Territories",Cordilleran & Alaska orogen,65.528,-133.235,974.9983,22,6090.0,6,0.0,974.9983
+1660,Arctic Red River,"Northwest, Yukon Territories",Cordilleran & Alaska orogen,65.086,-130.536,942.35,20,4330.0,5,0.0,942.35
+1661,Mountain River,"Northwest, Yukon Territories",Cordilleran & Alaska orogen,64.406,-128.109,965.0,24,10310.0,9,0.0,965.0
+1662,Norman Wells,"Northwest, Yukon Territories",Cordilleran & Alaska orogen,65.367,-126.552,1040.0,21,14740.0,8,0.0,1040.0
+1663,Fort Norman,"Northwest, Yukon Territories",Cordilleran & Alaska orogen,65.053,-125.65,1150.0,19,4630.0,7,0.0,1150.0
+1664,Western Great Bear Lake,"Northwest, Yukon Territories",Cordilleran & Alaska orogen,65.705,-123.642,2125.0,20,6600.0,11,0.0,2125.0
+1665,Twitya River,"Northwest, Yukon Territories",Cordilleran & Alaska orogen,63.261,-128.852,790.0,22,11060.0,6,0.0,790.0
+1666,Sekwi Mountain,"Northwest, Yukon Territories",Cordilleran & Alaska orogen,63.139,-127.607,790.0,26,9756.0,8,0.0,790.0
+1667,East Glacier Lake Nahanni,"Northwest, Yukon Territories",Cordilleran & Alaska orogen,62.963,-126.496,969.2,29,36160.0,6,0.0,969.2
+1668,Redstone River,"Northwest, Yukon Territories",Cordilleran & Alaska orogen,62.854,-125.285,923.1318,16,5360.0,5,0.0,923.1318
+1669,Cap Mountain,"Northwest, Yukon Territories",Cordilleran & Alaska orogen,63.263,-122.205,3200.0,21,6150.0,8,0.0,3200.0
+1670,Bulmer Lake,"Northwest, Yukon Territories",Cordilleran & Alaska orogen,63.075,-120.825,3200.0,15,2010.0,5,0.0,3200.0
+1671,Great Bear Plain - Lac la Martre,"Northwest, Yukon Territories",Cordilleran & Alaska orogen,63.378,-118.835,1898.75,14,4803.0,7,0.0,1898.75
+1672,Flat River,"Northwest, Yukon Territories",Cordilleran & Alaska orogen,61.204,-126.41,639.25,16,11650.0,4,0.0,639.25
+1673,Kotaneelee and Liard Ranges,"Northwest, Yukon Territories",Cordilleran & Alaska orogen,60.815,-122.56,2175.0,34,10200.0,8,0.0,2175.0
+1674,Trout Lake,"Northwest, Yukon Territories",Cordilleran & Alaska orogen,60.424,-120.94,2300.0,28,3930.0,6,0.0,2300.0
+1675,Hay River - Pine Point,"Northwest, Yukon Territories",Cordilleran & Alaska orogen,60.756,-115.398,2800.0,21,2370.0,8,0.0,2800.0
