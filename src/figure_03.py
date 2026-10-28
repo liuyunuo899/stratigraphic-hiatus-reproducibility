@@ -100,6 +100,8 @@ ax.legend(
 )
 
 # =====================================================
+
+# =====================================================
 # (b) Columns by setting
 # =====================================================
 
@@ -124,13 +126,20 @@ ax.set_yticklabels(
     fontsize=7.7
 )
 
+# Reserve space for numeric labels
+ax.set_xlim(0, 360)
+ax.set_xticks([0, 100, 200, 300])
+
+# Place numeric labels outside the bars
 for i, v in enumerate(counts.values):
     ax.text(
-        v + 2,
+        v + 4,
         i,
         str(v),
         va="center",
-        fontsize=8
+        ha="left",
+        fontsize=8,
+        clip_on=True
     )
 
 ax.set_xlabel("Columns used")
