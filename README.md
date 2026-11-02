@@ -2,7 +2,7 @@
 
 **Manuscript:** *When does the stratigraphic record appear scale-invariant? Linking hiatus statistics, temporal occupancy, and sediment preservation through deposition–erosion dynamics*
 
-**Target journal:** *Earth-Science Reviews*
+
 
 **Repository:** https://github.com/liuyunuo899/stratigraphic-hiatus-reproducibility
 
@@ -113,10 +113,10 @@ python src/figure_10.py
 
 These scripts use the **original ten-figure code numbering**. The manuscript contains **nine main figures plus Supplementary Fig. S1**:
 
-| Original plotting script | Manuscript designation |
-|---|---|
-| `figure_01.py` | Figure 1 |
-| `figure_02.py` | Supplementary Fig. S1 |
+| Original plotting script      | Manuscript designation    |
+| ----------------------------- | ------------------------- |
+| `figure_01.py`                | Figure 1                  |
+| `figure_02.py`                | Supplementary Fig. S1     |
 | `figure_03.py`–`figure_10.py` | Figures 2–9, respectively |
 
 See [`FIGURE_MAP.md`](FIGURE_MAP.md) for the individual output filenames and manuscript-image mapping. Archived manuscript figure images and newly rendered code figures need not be byte-for-byte identical; this does not by itself indicate changed numerical data.
